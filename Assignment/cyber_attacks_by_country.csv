@@ -1,0 +1,1501 @@
+IncidentID,Date,Country,Region,Latitude,Longitude,AttackType,TargetSector,ThreatActor,Severity,AffectedUsers,FinancialLossMillionUSD,ResolutionHours
+1,2023-04-15,Ukraine,Europe,48.4,31.2,Ransomware,Transport,State-sponsored,Medium,3540336,91.21,33
+2,2025-01-03,United States,North America,38.0,-97.0,DDoS,Transport,Cybercriminal Group,Medium,235614,12.87,604
+3,2023-12-15,United Kingdom,Europe,54.0,-2.0,SQL Injection,Telecom,State-sponsored,High,400390,27.75,345
+4,2025-04-06,United States,North America,38.0,-97.0,Phishing,Government,Insider,High,4499207,15.64,128
+5,2025-06-01,Mexico,North America,23.6,-102.6,Phishing,Education,Hacktivist,High,584470,45.96,47
+6,2024-01-25,Ukraine,Europe,48.4,31.2,Data Breach,Telecom,Cybercriminal Group,Critical,3061434,207.03,167
+7,2024-09-15,Germany,Europe,51.0,10.0,DDoS,Healthcare,Cybercriminal Group,High,128451,50.05,168
+8,2024-12-02,Japan,Asia,36.2,138.2,DDoS,Education,Unknown,High,406947,148.81,58
+9,2025-07-24,China,Asia,35.0,103.0,Ransomware,Education,State-sponsored,Low,4188855,171.42,406
+10,2024-07-28,Nigeria,Africa,9.1,8.7,Malware,Transport,Cybercriminal Group,Medium,306591,8.06,439
+11,2023-04-04,Turkey,Asia/Europe,38.9,35.2,Phishing,Government,Unknown,Medium,1283125,6.2,643
+12,2024-04-24,India,Asia,21.0,78.0,Malware,Transport,Cybercriminal Group,High,290149,43.36,12
+13,2023-12-15,Ukraine,Europe,48.4,31.2,Ransomware,Finance,Cybercriminal Group,Critical,1327723,444.7,465
+14,2024-06-03,United States,North America,38.0,-97.0,Data Breach,Finance,Unknown,Critical,2504536,384.14,655
+15,2025-03-08,South Korea,Asia,35.9,127.8,DDoS,Transport,Unknown,Medium,314119,19.83,332
+16,2023-09-04,Japan,Asia,36.2,138.2,Ransomware,Finance,State-sponsored,Medium,4077783,194.23,71
+17,2024-07-16,Mexico,North America,23.6,-102.6,Malware,Healthcare,Cybercriminal Group,Medium,457506,24.6,622
+18,2024-12-31,France,Europe,46.2,2.2,DDoS,Telecom,Cybercriminal Group,High,352257,90.89,666
+19,2023-12-13,Germany,Europe,51.0,10.0,SQL Injection,Government,Hacktivist,Medium,120746,17.24,603
+20,2023-02-02,China,Asia,35.0,103.0,Ransomware,Education,State-sponsored,Low,1997527,193.76,286
+21,2023-09-06,Ukraine,Europe,48.4,31.2,DDoS,Retail,Unknown,Medium,99929,22.39,97
+22,2023-02-25,United States,North America,38.0,-97.0,Phishing,Finance,State-sponsored,High,2847276,18.1,112
+23,2024-04-18,Russia,Europe/Asia,61.5,105.3,DDoS,Energy,Unknown,Medium,39623,38.65,454
+24,2025-05-06,Singapore,Asia,1.35,103.8,SQL Injection,Government,Unknown,Critical,485783,17.16,243
+25,2023-06-18,India,Asia,21.0,78.0,Phishing,Defense,State-sponsored,Critical,3276095,10.12,272
+26,2025-03-13,Turkey,Asia/Europe,38.9,35.2,Data Breach,Transport,Hacktivist,Critical,4083495,221.12,159
+27,2025-02-04,India,Asia,21.0,78.0,DDoS,Education,State-sponsored,Medium,306377,18.77,489
+28,2023-07-10,South Korea,Asia,35.9,127.8,SQL Injection,Finance,Hacktivist,Low,354105,17.96,241
+29,2024-09-26,Germany,Europe,51.0,10.0,Supply Chain,Finance,Cybercriminal Group,High,306112,528.85,579
+30,2023-09-29,South Korea,Asia,35.9,127.8,Supply Chain,Defense,State-sponsored,High,338528,284.9,308
+31,2024-07-30,Japan,Asia,36.2,138.2,Supply Chain,Finance,State-sponsored,High,111854,168.91,519
+32,2023-06-11,Russia,Europe/Asia,61.5,105.3,Supply Chain,Retail,Unknown,High,368957,318.9,310
+33,2024-07-21,Canada,North America,56.1,-106.3,Zero-Day Exploit,Telecom,Unknown,High,54409,140.45,138
+34,2024-09-11,Russia,Europe/Asia,61.5,105.3,SQL Injection,Energy,Insider,Medium,106843,27.19,704
+35,2024-03-09,Canada,North America,56.1,-106.3,DDoS,Telecom,State-sponsored,Low,174979,12.49,134
+36,2024-07-28,Ukraine,Europe,48.4,31.2,DDoS,Government,State-sponsored,Critical,495578,90.89,708
+37,2024-03-16,Turkey,Asia/Europe,38.9,35.2,Malware,Healthcare,State-sponsored,High,191282,88.62,41
+38,2024-07-27,Turkey,Asia/Europe,38.9,35.2,DDoS,Defense,Unknown,Medium,393042,7.11,159
+39,2023-01-26,Turkey,Asia/Europe,38.9,35.2,DDoS,Healthcare,Insider,High,174260,10.31,422
+40,2024-12-19,Singapore,Asia,1.35,103.8,SQL Injection,Finance,Cybercriminal Group,Medium,20402,49.21,482
+41,2025-06-11,China,Asia,35.0,103.0,Data Breach,Energy,Cybercriminal Group,Critical,1621090,169.2,409
+42,2024-06-05,United Kingdom,Europe,54.0,-2.0,SQL Injection,Defense,Hacktivist,High,442421,58.11,550
+43,2025-09-12,United Kingdom,Europe,54.0,-2.0,Ransomware,Telecom,State-sponsored,Medium,3646385,440.98,354
+44,2025-07-10,Israel,Asia,31.0,34.9,Phishing,Energy,Cybercriminal Group,Medium,3658915,37.55,2
+45,2023-07-21,South Korea,Asia,35.9,127.8,Data Breach,Education,Cybercriminal Group,Critical,2770918,490.19,639
+46,2024-11-13,United Kingdom,Europe,54.0,-2.0,SQL Injection,Defense,Cybercriminal Group,High,365638,44.03,303
+47,2025-07-13,Brazil,South America,-14.2,-51.9,DDoS,Healthcare,Hacktivist,High,157884,54.87,416
+48,2024-09-13,Brazil,South America,-14.2,-51.9,Ransomware,Education,Cybercriminal Group,Critical,3710105,157.72,692
+49,2023-03-28,China,Asia,35.0,103.0,Phishing,Telecom,Cybercriminal Group,Medium,2812762,72.49,96
+50,2023-05-31,Singapore,Asia,1.35,103.8,Data Breach,Government,State-sponsored,Critical,3986732,144.23,626
+51,2025-01-05,South Africa,Africa,-30.6,22.9,Ransomware,Defense,Cybercriminal Group,High,2047689,437.86,152
+52,2023-08-13,Ukraine,Europe,48.4,31.2,Ransomware,Healthcare,Unknown,Critical,4345944,114.14,476
+53,2024-04-20,United States,North America,38.0,-97.0,DDoS,Transport,Unknown,Medium,312288,68.63,325
+54,2024-03-12,Indonesia,Asia,-0.8,113.9,SQL Injection,Transport,Cybercriminal Group,Critical,83544,75.84,487
+55,2024-06-17,Japan,Asia,36.2,138.2,Data Breach,Retail,Hacktivist,Critical,2304490,296.35,451
+56,2023-03-24,United States,North America,38.0,-97.0,Phishing,Healthcare,State-sponsored,High,3214132,12.33,711
+57,2024-03-01,India,Asia,21.0,78.0,DDoS,Government,State-sponsored,High,220376,36.12,399
+58,2023-01-07,Turkey,Asia/Europe,38.9,35.2,Malware,Education,Cybercriminal Group,High,204565,74.86,430
+59,2023-10-07,Brazil,South America,-14.2,-51.9,Data Breach,Defense,Cybercriminal Group,High,3262970,169.77,345
+60,2024-09-29,Ukraine,Europe,48.4,31.2,Data Breach,Transport,State-sponsored,Critical,3306281,257.6,607
+61,2023-07-06,Brazil,South America,-14.2,-51.9,Ransomware,Government,Cybercriminal Group,Critical,2747033,197.11,217
+62,2025-05-01,Japan,Asia,36.2,138.2,Phishing,Defense,Cybercriminal Group,Critical,688079,35.43,482
+63,2023-03-12,United States,North America,38.0,-97.0,Malware,Government,Insider,Medium,497970,69.99,254
+64,2023-04-28,India,Asia,21.0,78.0,Ransomware,Energy,Cybercriminal Group,High,2150527,55.89,378
+65,2023-06-17,India,Asia,21.0,78.0,Malware,Telecom,State-sponsored,High,13562,16.01,320
+66,2024-08-29,Australia,Oceania,-25.3,133.8,SQL Injection,Energy,State-sponsored,Medium,405102,48.78,309
+67,2023-12-22,South Africa,Africa,-30.6,22.9,Malware,Transport,Cybercriminal Group,High,194385,17.98,71
+68,2025-09-10,South Korea,Asia,35.9,127.8,Phishing,Education,Hacktivist,Medium,3857573,34.28,157
+69,2025-07-30,France,Europe,46.2,2.2,Data Breach,Transport,Insider,High,3900643,338.43,447
+70,2023-03-30,Singapore,Asia,1.35,103.8,Malware,Telecom,Unknown,High,127954,15.16,476
+71,2023-07-06,Australia,Oceania,-25.3,133.8,Malware,Retail,State-sponsored,High,418393,26.2,265
+72,2024-06-13,United Kingdom,Europe,54.0,-2.0,SQL Injection,Energy,State-sponsored,High,377626,42.97,417
+73,2024-04-03,Japan,Asia,36.2,138.2,Data Breach,Government,State-sponsored,Critical,1859885,492.71,415
+74,2023-12-19,Ukraine,Europe,48.4,31.2,Phishing,Defense,Unknown,Medium,4617993,24.1,339
+75,2023-07-17,Germany,Europe,51.0,10.0,Phishing,Education,State-sponsored,Low,4496152,8.19,707
+76,2025-02-17,India,Asia,21.0,78.0,DDoS,Transport,Hacktivist,High,52804,82.63,199
+77,2023-10-08,United Kingdom,Europe,54.0,-2.0,Phishing,Government,Unknown,Medium,4642911,26.97,300
+78,2023-01-13,Ukraine,Europe,48.4,31.2,Ransomware,Telecom,Cybercriminal Group,Medium,3695920,436.86,349
+79,2023-03-08,India,Asia,21.0,78.0,Ransomware,Defense,Cybercriminal Group,Medium,4841404,471.71,645
+80,2023-09-12,Ukraine,Europe,48.4,31.2,DDoS,Finance,Cybercriminal Group,Low,218295,65.84,621
+81,2024-03-29,Australia,Oceania,-25.3,133.8,Malware,Telecom,Unknown,High,224930,55.2,313
+82,2023-08-01,Australia,Oceania,-25.3,133.8,Ransomware,Energy,Cybercriminal Group,Critical,682049,144.26,161
+83,2024-08-31,Russia,Europe/Asia,61.5,105.3,Malware,Retail,Cybercriminal Group,Medium,121460,14.33,296
+84,2023-09-28,Ukraine,Europe,48.4,31.2,Data Breach,Energy,Cybercriminal Group,Medium,4569120,334.2,231
+85,2025-03-22,Ukraine,Europe,48.4,31.2,SQL Injection,Telecom,Hacktivist,Low,432239,15.04,583
+86,2025-08-23,Turkey,Asia/Europe,38.9,35.2,Phishing,Telecom,Cybercriminal Group,High,4143254,19.81,449
+87,2023-01-27,United States,North America,38.0,-97.0,Ransomware,Finance,Cybercriminal Group,High,4826119,227.37,602
+88,2025-02-20,Indonesia,Asia,-0.8,113.9,Zero-Day Exploit,Healthcare,Cybercriminal Group,High,341678,480.43,453
+89,2025-09-19,Turkey,Asia/Europe,38.9,35.2,DDoS,Finance,Cybercriminal Group,Critical,214192,97.8,342
+90,2023-10-23,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,Unknown,High,4615544,97.2,38
+91,2025-04-24,Japan,Asia,36.2,138.2,Phishing,Government,Hacktivist,High,4552604,14.28,474
+92,2025-02-17,France,Europe,46.2,2.2,DDoS,Government,State-sponsored,High,288049,32.13,135
+93,2024-10-07,Turkey,Asia/Europe,38.9,35.2,Phishing,Energy,Hacktivist,Low,2607761,8.56,565
+94,2023-05-01,United States,North America,38.0,-97.0,Phishing,Healthcare,Cybercriminal Group,Medium,2449312,3.16,522
+95,2024-07-18,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,Cybercriminal Group,Medium,4264433,20.33,140
+96,2025-03-17,Nigeria,Africa,9.1,8.7,Phishing,Transport,Cybercriminal Group,High,22518,32.02,290
+97,2023-06-02,Ukraine,Europe,48.4,31.2,SQL Injection,Retail,Cybercriminal Group,High,181044,72.11,341
+98,2024-12-15,Brazil,South America,-14.2,-51.9,Malware,Energy,Hacktivist,Critical,122553,34.05,421
+99,2024-11-10,United States,North America,38.0,-97.0,Data Breach,Healthcare,Cybercriminal Group,High,311543,251.25,130
+100,2025-07-21,South Korea,Asia,35.9,127.8,Malware,Retail,State-sponsored,Low,75678,61.4,420
+101,2024-12-10,Nigeria,Africa,9.1,8.7,Zero-Day Exploit,Defense,Hacktivist,High,446670,80.13,337
+102,2025-06-27,South Africa,Africa,-30.6,22.9,SQL Injection,Retail,Unknown,High,18921,24.66,633
+103,2024-03-20,United States,North America,38.0,-97.0,Malware,Finance,Insider,Critical,369141,38.87,103
+104,2023-02-27,Japan,Asia,36.2,138.2,Data Breach,Telecom,Cybercriminal Group,High,3613862,95.29,150
+105,2023-03-22,Russia,Europe/Asia,61.5,105.3,Phishing,Defense,Hacktivist,Low,2021226,16.75,510
+106,2024-11-13,Turkey,Asia/Europe,38.9,35.2,DDoS,Government,Unknown,High,244026,39.59,295
+107,2023-11-03,Ukraine,Europe,48.4,31.2,DDoS,Defense,Hacktivist,Critical,239613,38.13,310
+108,2024-01-03,India,Asia,21.0,78.0,Phishing,Telecom,Unknown,Medium,2477575,12.22,23
+109,2025-03-07,Mexico,North America,23.6,-102.6,Malware,Government,Unknown,Critical,390784,33.17,509
+110,2023-12-27,South Africa,Africa,-30.6,22.9,SQL Injection,Energy,Hacktivist,High,325625,28.33,257
+111,2025-07-14,Ukraine,Europe,48.4,31.2,Data Breach,Government,Cybercriminal Group,High,3698892,141.5,35
+112,2024-03-01,Australia,Oceania,-25.3,133.8,Data Breach,Healthcare,State-sponsored,High,4525880,45.19,375
+113,2025-08-24,South Korea,Asia,35.9,127.8,Supply Chain,Retail,Unknown,Critical,154839,502.52,347
+114,2025-01-11,Singapore,Asia,1.35,103.8,Phishing,Defense,Unknown,High,4676077,2.92,375
+115,2024-11-19,United States,North America,38.0,-97.0,Phishing,Telecom,Hacktivist,Medium,3117146,3.61,111
+116,2024-09-16,Ukraine,Europe,48.4,31.2,Phishing,Energy,Hacktivist,High,3895558,38.31,718
+117,2024-05-19,United Kingdom,Europe,54.0,-2.0,Phishing,Finance,State-sponsored,Medium,4510267,2.19,139
+118,2024-03-05,Germany,Europe,51.0,10.0,Phishing,Healthcare,Unknown,Critical,831653,76.15,502
+119,2024-03-30,Canada,North America,56.1,-106.3,Supply Chain,Retail,Unknown,High,448602,371.7,372
+120,2024-02-12,United States,North America,38.0,-97.0,Data Breach,Telecom,State-sponsored,High,1025749,394.79,466
+121,2023-12-08,United States,North America,38.0,-97.0,DDoS,Energy,Unknown,Low,412703,15.89,579
+122,2025-06-09,China,Asia,35.0,103.0,SQL Injection,Energy,Cybercriminal Group,Medium,77460,51.88,611
+123,2025-03-28,United States,North America,38.0,-97.0,SQL Injection,Healthcare,State-sponsored,Medium,454368,6.75,27
+124,2023-06-28,India,Asia,21.0,78.0,Phishing,Telecom,State-sponsored,High,3532273,47.94,539
+125,2023-04-22,India,Asia,21.0,78.0,Ransomware,Retail,Cybercriminal Group,High,364772,235.17,675
+126,2025-05-17,South Korea,Asia,35.9,127.8,Phishing,Defense,Cybercriminal Group,Critical,906649,11.59,503
+127,2023-03-09,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,Cybercriminal Group,High,4911394,36.17,562
+128,2024-09-11,Ukraine,Europe,48.4,31.2,Phishing,Defense,State-sponsored,Medium,960774,24.7,671
+129,2025-06-28,Ukraine,Europe,48.4,31.2,Data Breach,Energy,Cybercriminal Group,High,3805224,153.89,409
+130,2025-09-03,France,Europe,46.2,2.2,Ransomware,Healthcare,Hacktivist,Medium,3979447,449.69,69
+131,2025-04-11,United States,North America,38.0,-97.0,Ransomware,Healthcare,Cybercriminal Group,Critical,4920625,454.6,576
+132,2024-03-09,Brazil,South America,-14.2,-51.9,Malware,Government,Unknown,Critical,314887,62.23,320
+133,2025-05-17,Germany,Europe,51.0,10.0,Malware,Finance,Cybercriminal Group,High,291743,36.08,377
+134,2025-09-24,India,Asia,21.0,78.0,Phishing,Transport,State-sponsored,High,2244514,10.59,30
+135,2023-07-05,India,Asia,21.0,78.0,Data Breach,Healthcare,Cybercriminal Group,High,3363022,118.51,72
+136,2024-01-21,India,Asia,21.0,78.0,Malware,Defense,Cybercriminal Group,Medium,82627,12.05,379
+137,2023-02-23,United Kingdom,Europe,54.0,-2.0,Phishing,Healthcare,State-sponsored,Low,418438,56.66,691
+138,2023-10-07,United States,North America,38.0,-97.0,Phishing,Energy,Insider,Medium,955770,27.17,354
+139,2023-11-12,France,Europe,46.2,2.2,Phishing,Government,Cybercriminal Group,Medium,460544,27.78,8
+140,2023-05-03,India,Asia,21.0,78.0,Supply Chain,Government,Cybercriminal Group,Medium,225887,466.23,180
+141,2025-04-05,India,Asia,21.0,78.0,Malware,Education,State-sponsored,High,451912,28.78,44
+142,2024-08-10,France,Europe,46.2,2.2,Phishing,Defense,Hacktivist,Medium,3504870,4.96,297
+143,2024-12-07,India,Asia,21.0,78.0,Ransomware,Education,State-sponsored,High,889044,263.83,250
+144,2023-08-15,France,Europe,46.2,2.2,Phishing,Education,Insider,High,641716,4.99,523
+145,2025-09-08,Canada,North America,56.1,-106.3,Malware,Healthcare,Cybercriminal Group,Medium,76878,16.8,263
+146,2025-09-01,India,Asia,21.0,78.0,Malware,Retail,Cybercriminal Group,Low,295659,108.35,594
+147,2023-11-27,Japan,Asia,36.2,138.2,Supply Chain,Education,State-sponsored,Critical,35901,699.17,481
+148,2023-03-17,France,Europe,46.2,2.2,Phishing,Telecom,Cybercriminal Group,Medium,316472,3.73,59
+149,2024-06-03,Germany,Europe,51.0,10.0,Phishing,Defense,Cybercriminal Group,High,4650942,7.95,43
+150,2024-05-28,Japan,Asia,36.2,138.2,Data Breach,Healthcare,Unknown,High,3780261,233.37,106
+151,2023-06-26,Singapore,Asia,1.35,103.8,SQL Injection,Government,Cybercriminal Group,Medium,229611,17.7,450
+152,2025-03-04,South Korea,Asia,35.9,127.8,Malware,Education,Hacktivist,Medium,27554,28.02,647
+153,2023-09-16,Ukraine,Europe,48.4,31.2,Ransomware,Healthcare,Cybercriminal Group,High,4889373,130.73,680
+154,2023-05-13,India,Asia,21.0,78.0,Phishing,Finance,Cybercriminal Group,High,3160815,77.54,659
+155,2025-07-23,Israel,Asia,31.0,34.9,Data Breach,Transport,State-sponsored,Critical,3552790,478.98,521
+156,2025-02-23,Germany,Europe,51.0,10.0,Phishing,Retail,State-sponsored,Medium,1154981,5.31,159
+157,2025-06-23,United States,North America,38.0,-97.0,SQL Injection,Transport,State-sponsored,High,176661,13.15,633
+158,2025-04-08,India,Asia,21.0,78.0,Phishing,Healthcare,Insider,High,367518,16.33,421
+159,2025-02-05,Germany,Europe,51.0,10.0,Data Breach,Retail,Cybercriminal Group,Medium,2007290,509.72,317
+160,2025-08-27,Indonesia,Asia,-0.8,113.9,Data Breach,Retail,Cybercriminal Group,High,2364672,190.7,392
+161,2023-05-22,South Korea,Asia,35.9,127.8,Phishing,Telecom,State-sponsored,High,4032486,4.89,381
+162,2025-02-20,Brazil,South America,-14.2,-51.9,Ransomware,Healthcare,Cybercriminal Group,Medium,4307314,127.81,151
+163,2025-08-10,South Africa,Africa,-30.6,22.9,Ransomware,Government,Cybercriminal Group,Critical,3326696,457.04,515
+164,2025-08-11,Germany,Europe,51.0,10.0,Phishing,Finance,Unknown,Low,2813619,3.06,150
+165,2025-02-16,India,Asia,21.0,78.0,Phishing,Retail,Cybercriminal Group,Critical,45050,67.06,82
+166,2024-03-09,United States,North America,38.0,-97.0,DDoS,Finance,Insider,High,124691,32.43,309
+167,2023-04-24,India,Asia,21.0,78.0,DDoS,Retail,Hacktivist,High,8716,79.38,648
+168,2023-12-28,South Korea,Asia,35.9,127.8,DDoS,Energy,Cybercriminal Group,Low,98306,15.77,681
+169,2025-03-16,Ukraine,Europe,48.4,31.2,Malware,Transport,Cybercriminal Group,High,204810,41.7,482
+170,2025-03-18,United States,North America,38.0,-97.0,Phishing,Finance,Cybercriminal Group,Low,870595,32.37,596
+171,2024-10-20,Israel,Asia,31.0,34.9,Phishing,Healthcare,Unknown,Medium,3898539,5.53,713
+172,2024-04-13,Japan,Asia,36.2,138.2,DDoS,Government,Cybercriminal Group,Critical,23067,30.23,205
+173,2024-07-10,Nigeria,Africa,9.1,8.7,Phishing,Retail,Cybercriminal Group,Critical,1604091,13.78,293
+174,2025-03-29,Germany,Europe,51.0,10.0,Data Breach,Education,Cybercriminal Group,Medium,3356625,305.04,451
+175,2024-01-12,Nigeria,Africa,9.1,8.7,Phishing,Transport,Cybercriminal Group,High,693995,39.0,435
+176,2023-04-16,United States,North America,38.0,-97.0,Malware,Finance,Cybercriminal Group,Medium,155100,87.41,314
+177,2023-02-13,Japan,Asia,36.2,138.2,Data Breach,Education,Hacktivist,High,3649545,70.83,282
+178,2024-01-08,Ukraine,Europe,48.4,31.2,Data Breach,Transport,Unknown,High,1343065,68.43,32
+179,2023-08-30,India,Asia,21.0,78.0,Malware,Education,Cybercriminal Group,Low,497894,16.67,581
+180,2025-02-20,United States,North America,38.0,-97.0,DDoS,Finance,Hacktivist,High,277689,38.74,376
+181,2023-07-10,Germany,Europe,51.0,10.0,Malware,Retail,Cybercriminal Group,Low,479059,6.14,576
+182,2023-10-20,India,Asia,21.0,78.0,Data Breach,Retail,State-sponsored,Critical,1139572,150.51,76
+183,2025-09-17,Japan,Asia,36.2,138.2,SQL Injection,Education,Hacktivist,High,372103,8.51,67
+184,2025-08-07,Brazil,South America,-14.2,-51.9,Phishing,Healthcare,Unknown,High,4268752,8.04,230
+185,2024-07-21,India,Asia,21.0,78.0,DDoS,Education,Cybercriminal Group,Low,289321,15.42,133
+186,2024-06-22,Canada,North America,56.1,-106.3,Ransomware,Defense,Insider,Critical,4823615,336.92,76
+187,2023-12-19,India,Asia,21.0,78.0,Phishing,Healthcare,Unknown,High,4625668,4.82,656
+188,2023-02-26,Australia,Oceania,-25.3,133.8,Data Breach,Finance,Cybercriminal Group,Critical,2552181,87.34,169
+189,2025-05-16,India,Asia,21.0,78.0,Supply Chain,Finance,Cybercriminal Group,Critical,333052,231.97,565
+190,2023-06-22,United Kingdom,Europe,54.0,-2.0,Malware,Healthcare,State-sponsored,Medium,327506,13.37,620
+191,2025-08-29,United Kingdom,Europe,54.0,-2.0,Supply Chain,Telecom,Hacktivist,Low,402207,14.61,586
+192,2024-10-19,France,Europe,46.2,2.2,Malware,Telecom,Cybercriminal Group,High,421988,73.74,702
+193,2024-05-10,Germany,Europe,51.0,10.0,Phishing,Retail,State-sponsored,Medium,1206180,16.9,321
+194,2023-05-14,South Africa,Africa,-30.6,22.9,Phishing,Education,Cybercriminal Group,Critical,891735,39.54,327
+195,2023-10-25,Russia,Europe/Asia,61.5,105.3,Ransomware,Defense,Unknown,Low,3508568,141.48,255
+196,2023-07-14,Indonesia,Asia,-0.8,113.9,SQL Injection,Healthcare,Cybercriminal Group,Critical,269964,74.05,479
+197,2025-09-16,South Korea,Asia,35.9,127.8,Phishing,Energy,Cybercriminal Group,Medium,2961298,2.88,50
+198,2023-10-20,United States,North America,38.0,-97.0,Phishing,Transport,State-sponsored,High,902750,71.06,442
+199,2024-02-15,India,Asia,21.0,78.0,DDoS,Government,Cybercriminal Group,High,102155,32.43,372
+200,2024-09-30,Brazil,South America,-14.2,-51.9,Ransomware,Finance,State-sponsored,Medium,812023,393.06,404
+201,2023-07-23,Germany,Europe,51.0,10.0,Zero-Day Exploit,Transport,Cybercriminal Group,Critical,21205,403.75,47
+202,2024-09-12,United States,North America,38.0,-97.0,Data Breach,Transport,State-sponsored,High,2673023,426.49,167
+203,2025-04-28,Germany,Europe,51.0,10.0,Malware,Transport,Cybercriminal Group,High,371683,89.42,577
+204,2024-03-02,United Kingdom,Europe,54.0,-2.0,Data Breach,Telecom,Unknown,Medium,224532,276.8,612
+205,2025-01-08,Japan,Asia,36.2,138.2,Zero-Day Exploit,Government,Hacktivist,High,89497,831.82,537
+206,2023-09-06,Canada,North America,56.1,-106.3,Malware,Government,Hacktivist,Critical,367374,35.71,113
+207,2024-02-25,India,Asia,21.0,78.0,Phishing,Transport,Insider,High,3957113,17.91,64
+208,2024-01-21,Ukraine,Europe,48.4,31.2,Malware,Education,Unknown,High,241096,82.04,546
+209,2025-04-02,Germany,Europe,51.0,10.0,Phishing,Telecom,Hacktivist,High,1613828,62.67,253
+210,2024-12-22,United Kingdom,Europe,54.0,-2.0,Phishing,Energy,Hacktivist,Critical,4103055,37.78,325
+211,2023-05-05,Japan,Asia,36.2,138.2,Malware,Transport,Cybercriminal Group,Medium,206948,131.35,354
+212,2023-03-22,Indonesia,Asia,-0.8,113.9,Data Breach,Education,Unknown,Critical,2152207,112.3,491
+213,2023-05-21,China,Asia,35.0,103.0,SQL Injection,Finance,Hacktivist,High,307768,27.68,246
+214,2023-04-13,Russia,Europe/Asia,61.5,105.3,Malware,Defense,Cybercriminal Group,Medium,247775,78.1,103
+215,2025-08-15,Ukraine,Europe,48.4,31.2,DDoS,Retail,Cybercriminal Group,High,104672,46.4,295
+216,2023-08-26,United Kingdom,Europe,54.0,-2.0,Malware,Transport,Insider,High,445919,19.18,39
+217,2023-02-07,Turkey,Asia/Europe,38.9,35.2,DDoS,Defense,Unknown,Critical,97780,42.7,297
+218,2023-12-10,Nigeria,Africa,9.1,8.7,Ransomware,Telecom,Cybercriminal Group,Critical,4558534,87.79,537
+219,2025-04-08,South Korea,Asia,35.9,127.8,Supply Chain,Finance,Cybercriminal Group,Medium,383417,514.36,470
+220,2024-08-04,Ukraine,Europe,48.4,31.2,Data Breach,Energy,State-sponsored,High,3402499,19.72,438
+221,2024-05-03,South Korea,Asia,35.9,127.8,Ransomware,Education,Unknown,Critical,58295,204.75,268
+222,2025-01-10,Germany,Europe,51.0,10.0,Phishing,Government,Cybercriminal Group,Medium,3017141,12.15,710
+223,2024-05-29,China,Asia,35.0,103.0,Malware,Telecom,Hacktivist,Medium,334968,20.83,303
+224,2025-02-04,Germany,Europe,51.0,10.0,DDoS,Education,Cybercriminal Group,Medium,288057,76.8,483
+225,2024-09-02,Israel,Asia,31.0,34.9,Data Breach,Finance,Cybercriminal Group,High,4431637,174.95,371
+226,2023-07-27,United States,North America,38.0,-97.0,Malware,Transport,State-sponsored,Critical,172128,12.11,533
+227,2024-06-06,France,Europe,46.2,2.2,Malware,Retail,Unknown,Low,237829,51.32,136
+228,2023-11-12,South Korea,Asia,35.9,127.8,Phishing,Government,Cybercriminal Group,High,26295,4.19,224
+229,2023-03-03,Australia,Oceania,-25.3,133.8,Ransomware,Finance,Unknown,High,3961020,55.61,33
+230,2024-10-23,United Kingdom,Europe,54.0,-2.0,DDoS,Defense,Cybercriminal Group,Critical,467415,30.31,392
+231,2024-11-08,Japan,Asia,36.2,138.2,Supply Chain,Transport,State-sponsored,High,451137,72.62,357
+232,2023-08-17,India,Asia,21.0,78.0,Zero-Day Exploit,Government,Insider,Critical,156528,176.01,475
+233,2023-12-21,Ukraine,Europe,48.4,31.2,Malware,Healthcare,Cybercriminal Group,Medium,491573,23.46,116
+234,2023-03-10,United States,North America,38.0,-97.0,Malware,Finance,Hacktivist,Medium,234163,13.38,613
+235,2023-08-28,Ukraine,Europe,48.4,31.2,SQL Injection,Transport,Cybercriminal Group,Medium,452943,5.08,58
+236,2024-08-14,India,Asia,21.0,78.0,Zero-Day Exploit,Education,Cybercriminal Group,High,459511,373.78,147
+237,2025-08-29,Mexico,North America,23.6,-102.6,Malware,Healthcare,Hacktivist,Low,224076,31.29,570
+238,2024-06-21,South Korea,Asia,35.9,127.8,Zero-Day Exploit,Education,Hacktivist,High,214145,1321.73,153
+239,2023-11-04,United Kingdom,Europe,54.0,-2.0,DDoS,Healthcare,Unknown,High,479687,27.21,60
+240,2023-09-19,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Energy,Cybercriminal Group,High,41555,242.03,461
+241,2024-01-22,South Africa,Africa,-30.6,22.9,Ransomware,Government,Unknown,Low,1579428,220.68,602
+242,2025-07-19,Ukraine,Europe,48.4,31.2,Malware,Government,State-sponsored,High,99727,35.64,121
+243,2023-07-29,Israel,Asia,31.0,34.9,Data Breach,Defense,Unknown,High,4632176,642.68,330
+244,2024-01-04,Israel,Asia,31.0,34.9,Phishing,Transport,Unknown,Medium,3910125,22.28,101
+245,2024-01-15,Singapore,Asia,1.35,103.8,Data Breach,Education,Cybercriminal Group,Critical,4719799,270.15,227
+246,2024-03-03,Israel,Asia,31.0,34.9,Ransomware,Telecom,State-sponsored,High,2768110,428.38,236
+247,2023-12-12,Germany,Europe,51.0,10.0,SQL Injection,Telecom,Insider,Critical,256278,62.92,658
+248,2025-01-07,Israel,Asia,31.0,34.9,Phishing,Transport,Cybercriminal Group,Low,4548773,29.85,658
+249,2024-11-15,Indonesia,Asia,-0.8,113.9,Malware,Government,Insider,Critical,216312,17.81,141
+250,2024-04-11,South Africa,Africa,-30.6,22.9,DDoS,Education,State-sponsored,Medium,334453,17.41,683
+251,2024-07-18,Indonesia,Asia,-0.8,113.9,Supply Chain,Defense,State-sponsored,Low,277667,121.23,282
+252,2025-04-05,Brazil,South America,-14.2,-51.9,Phishing,Healthcare,State-sponsored,High,808939,42.17,537
+253,2024-02-11,India,Asia,21.0,78.0,DDoS,Finance,Cybercriminal Group,Medium,212975,44.48,471
+254,2023-03-24,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Government,State-sponsored,Critical,198943,362.65,387
+255,2025-05-15,Brazil,South America,-14.2,-51.9,Ransomware,Defense,Hacktivist,Low,2779899,14.72,580
+256,2025-07-11,Mexico,North America,23.6,-102.6,Zero-Day Exploit,Retail,Cybercriminal Group,Medium,484625,188.85,77
+257,2025-08-09,Ukraine,Europe,48.4,31.2,Phishing,Education,State-sponsored,Low,1738768,45.27,602
+258,2024-07-31,India,Asia,21.0,78.0,SQL Injection,Energy,Cybercriminal Group,Medium,445452,14.94,399
+259,2024-12-06,Ukraine,Europe,48.4,31.2,Malware,Finance,Cybercriminal Group,Medium,181429,58.67,55
+260,2025-09-04,United States,North America,38.0,-97.0,DDoS,Defense,Unknown,High,171215,16.05,31
+261,2025-08-21,Canada,North America,56.1,-106.3,Data Breach,Defense,Cybercriminal Group,High,4915676,99.56,677
+262,2023-03-26,Germany,Europe,51.0,10.0,Data Breach,Telecom,State-sponsored,Critical,1295168,68.37,399
+263,2025-02-18,United Kingdom,Europe,54.0,-2.0,Ransomware,Telecom,State-sponsored,Medium,733302,22.49,192
+264,2023-12-29,France,Europe,46.2,2.2,Malware,Transport,State-sponsored,Low,313647,11.35,333
+265,2024-07-26,Nigeria,Africa,9.1,8.7,Ransomware,Energy,Hacktivist,Critical,1423564,65.59,702
+266,2023-06-21,Germany,Europe,51.0,10.0,DDoS,Defense,Cybercriminal Group,Low,157256,27.58,496
+267,2024-08-31,Israel,Asia,31.0,34.9,Phishing,Energy,Cybercriminal Group,High,1137568,75.76,312
+268,2023-12-04,United States,North America,38.0,-97.0,Phishing,Retail,Cybercriminal Group,Critical,4987129,33.98,140
+269,2025-09-14,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Unknown,High,152902,49.89,712
+270,2025-04-16,Canada,North America,56.1,-106.3,Zero-Day Exploit,Defense,Cybercriminal Group,High,488771,553.92,578
+271,2025-01-14,India,Asia,21.0,78.0,Zero-Day Exploit,Retail,Unknown,Low,110016,225.83,449
+272,2023-05-23,Singapore,Asia,1.35,103.8,SQL Injection,Telecom,Cybercriminal Group,High,345429,6.94,158
+273,2024-02-15,Ukraine,Europe,48.4,31.2,Data Breach,Transport,Cybercriminal Group,High,3509960,59.67,557
+274,2025-07-25,United States,North America,38.0,-97.0,Zero-Day Exploit,Finance,State-sponsored,High,130244,750.14,674
+275,2024-11-24,Ukraine,Europe,48.4,31.2,DDoS,Defense,Unknown,Critical,173952,76.43,441
+276,2024-08-17,United States,North America,38.0,-97.0,Ransomware,Energy,Cybercriminal Group,High,3282071,253.12,475
+277,2024-05-09,Israel,Asia,31.0,34.9,Malware,Finance,Cybercriminal Group,Critical,482732,37.03,88
+278,2025-03-14,India,Asia,21.0,78.0,Supply Chain,Energy,Cybercriminal Group,High,182709,106.46,488
+279,2025-04-09,United States,North America,38.0,-97.0,Data Breach,Finance,State-sponsored,High,2878946,49.97,664
+280,2023-06-28,United States,North America,38.0,-97.0,Data Breach,Transport,State-sponsored,Medium,4697353,653.05,437
+281,2024-11-04,Indonesia,Asia,-0.8,113.9,DDoS,Defense,Cybercriminal Group,Low,386703,21.23,629
+282,2023-07-30,Nigeria,Africa,9.1,8.7,Phishing,Telecom,Insider,High,525822,5.5,592
+283,2023-04-27,United States,North America,38.0,-97.0,SQL Injection,Telecom,Hacktivist,Low,256730,13.66,541
+284,2023-12-23,Mexico,North America,23.6,-102.6,Phishing,Education,Unknown,Medium,1448265,16.77,690
+285,2023-11-17,Ukraine,Europe,48.4,31.2,Phishing,Finance,Cybercriminal Group,High,982038,7.61,188
+286,2024-01-28,Germany,Europe,51.0,10.0,DDoS,Defense,State-sponsored,Medium,333285,51.2,551
+287,2023-10-23,Ukraine,Europe,48.4,31.2,Malware,Healthcare,State-sponsored,Medium,441542,104.99,462
+288,2025-04-14,Canada,North America,56.1,-106.3,SQL Injection,Defense,Unknown,Medium,265095,57.25,669
+289,2023-03-26,South Korea,Asia,35.9,127.8,Data Breach,Government,Unknown,High,1850935,154.24,300
+290,2025-03-02,United States,North America,38.0,-97.0,DDoS,Retail,Cybercriminal Group,Medium,59455,26.65,587
+291,2025-02-13,India,Asia,21.0,78.0,Data Breach,Government,Insider,High,3703451,290.8,560
+292,2023-11-01,China,Asia,35.0,103.0,Phishing,Government,Cybercriminal Group,Critical,2925075,59.94,90
+293,2025-01-25,France,Europe,46.2,2.2,Zero-Day Exploit,Education,Unknown,Medium,320052,329.8,648
+294,2024-08-06,France,Europe,46.2,2.2,Malware,Education,Cybercriminal Group,Critical,313025,33.48,552
+295,2025-05-28,India,Asia,21.0,78.0,Zero-Day Exploit,Transport,Unknown,Medium,356248,339.1,98
+296,2025-06-06,India,Asia,21.0,78.0,Data Breach,Healthcare,Hacktivist,Critical,1114091,45.87,256
+297,2023-05-26,India,Asia,21.0,78.0,Phishing,Telecom,Hacktivist,Medium,3148173,22.81,463
+298,2023-10-12,United States,North America,38.0,-97.0,Data Breach,Education,Cybercriminal Group,High,4095013,272.58,336
+299,2024-04-14,Australia,Oceania,-25.3,133.8,SQL Injection,Education,Unknown,High,417264,15.39,548
+300,2025-04-28,Germany,Europe,51.0,10.0,Zero-Day Exploit,Telecom,Cybercriminal Group,Medium,303103,582.65,134
+301,2023-02-17,Brazil,South America,-14.2,-51.9,Phishing,Finance,Hacktivist,Critical,3856251,30.12,17
+302,2024-03-14,India,Asia,21.0,78.0,SQL Injection,Energy,Unknown,Critical,476891,8.45,136
+303,2024-01-05,Nigeria,Africa,9.1,8.7,Phishing,Telecom,State-sponsored,Low,1389525,35.23,54
+304,2023-04-04,Germany,Europe,51.0,10.0,Phishing,Finance,State-sponsored,Medium,4000744,17.15,80
+305,2023-12-18,India,Asia,21.0,78.0,DDoS,Finance,Unknown,Low,221514,16.8,711
+306,2023-04-16,India,Asia,21.0,78.0,Ransomware,Education,Cybercriminal Group,Critical,2511335,407.75,141
+307,2023-05-27,Germany,Europe,51.0,10.0,Data Breach,Finance,Cybercriminal Group,Critical,72091,615.91,625
+308,2025-07-30,Ukraine,Europe,48.4,31.2,Phishing,Defense,Hacktivist,Critical,3711984,58.9,223
+309,2023-12-26,United States,North America,38.0,-97.0,Ransomware,Defense,Cybercriminal Group,Critical,1173980,571.76,254
+310,2023-10-19,United Kingdom,Europe,54.0,-2.0,Ransomware,Government,Unknown,Critical,2531418,428.45,211
+311,2025-03-13,South Korea,Asia,35.9,127.8,Malware,Energy,Cybercriminal Group,High,59210,53.36,247
+312,2025-08-14,South Korea,Asia,35.9,127.8,Malware,Education,State-sponsored,Critical,451414,11.66,583
+313,2025-02-27,France,Europe,46.2,2.2,Malware,Finance,State-sponsored,Critical,35506,15.4,15
+314,2024-10-05,Russia,Europe/Asia,61.5,105.3,Ransomware,Transport,Insider,High,3554206,49.03,719
+315,2023-11-14,Germany,Europe,51.0,10.0,Malware,Finance,Cybercriminal Group,Medium,106634,23.69,160
+316,2023-03-09,Brazil,South America,-14.2,-51.9,Phishing,Telecom,Hacktivist,High,2002835,52.21,60
+317,2023-11-13,Russia,Europe/Asia,61.5,105.3,Supply Chain,Healthcare,State-sponsored,High,371243,137.54,141
+318,2025-04-22,Ukraine,Europe,48.4,31.2,DDoS,Telecom,State-sponsored,High,66648,114.71,276
+319,2023-10-06,Israel,Asia,31.0,34.9,Ransomware,Transport,State-sponsored,Critical,4838304,451.95,643
+320,2023-06-20,United States,North America,38.0,-97.0,Phishing,Education,State-sponsored,High,864228,15.68,588
+321,2025-06-02,Ukraine,Europe,48.4,31.2,Ransomware,Government,Cybercriminal Group,Low,3958448,112.67,373
+322,2025-07-24,Germany,Europe,51.0,10.0,DDoS,Defense,Cybercriminal Group,Medium,130261,22.45,427
+323,2024-05-29,Turkey,Asia/Europe,38.9,35.2,Phishing,Government,State-sponsored,High,4327626,50.08,48
+324,2023-11-15,Indonesia,Asia,-0.8,113.9,Ransomware,Education,State-sponsored,Critical,3832464,243.25,9
+325,2024-04-20,Germany,Europe,51.0,10.0,Phishing,Education,Hacktivist,High,4139609,63.62,201
+326,2024-02-24,Israel,Asia,31.0,34.9,Malware,Government,Cybercriminal Group,Low,181725,33.92,652
+327,2024-01-21,South Africa,Africa,-30.6,22.9,SQL Injection,Telecom,State-sponsored,High,277875,17.16,244
+328,2023-04-06,France,Europe,46.2,2.2,Zero-Day Exploit,Government,Unknown,Critical,470537,408.97,533
+329,2023-04-08,France,Europe,46.2,2.2,SQL Injection,Transport,State-sponsored,Low,429996,58.26,404
+330,2023-09-25,United States,North America,38.0,-97.0,Malware,Education,Unknown,Medium,206120,19.63,718
+331,2023-07-27,South Africa,Africa,-30.6,22.9,Phishing,Healthcare,Insider,Low,4905886,11.52,112
+332,2024-01-02,India,Asia,21.0,78.0,DDoS,Energy,Cybercriminal Group,Medium,243027,39.95,272
+333,2024-12-14,South Africa,Africa,-30.6,22.9,Ransomware,Government,Cybercriminal Group,Critical,2750732,407.65,152
+334,2023-11-03,United States,North America,38.0,-97.0,DDoS,Telecom,Unknown,Low,91256,47.52,32
+335,2024-04-18,Indonesia,Asia,-0.8,113.9,SQL Injection,Finance,Unknown,Medium,73391,52.03,125
+336,2024-02-15,United States,North America,38.0,-97.0,SQL Injection,Education,Hacktivist,Medium,491659,35.4,661
+337,2023-03-08,United States,North America,38.0,-97.0,Malware,Energy,Unknown,Low,232585,19.37,132
+338,2024-04-17,United States,North America,38.0,-97.0,SQL Injection,Government,State-sponsored,Low,300980,14.73,444
+339,2023-12-29,Singapore,Asia,1.35,103.8,Phishing,Energy,Unknown,Medium,2307714,6.24,287
+340,2023-10-30,Japan,Asia,36.2,138.2,DDoS,Retail,Cybercriminal Group,Medium,288819,76.59,491
+341,2025-03-27,United States,North America,38.0,-97.0,Phishing,Transport,Cybercriminal Group,High,4561522,4.33,20
+342,2023-12-19,Mexico,North America,23.6,-102.6,Data Breach,Transport,Cybercriminal Group,Critical,2269578,202.95,185
+343,2024-04-28,United States,North America,38.0,-97.0,Malware,Transport,Cybercriminal Group,Low,306278,5.93,239
+344,2025-03-21,Mexico,North America,23.6,-102.6,Ransomware,Government,Insider,High,1841557,335.29,590
+345,2024-08-29,South Africa,Africa,-30.6,22.9,Data Breach,Education,Unknown,Medium,3010691,80.32,606
+346,2025-08-29,United States,North America,38.0,-97.0,Data Breach,Energy,Unknown,Medium,4130097,498.65,556
+347,2023-01-21,United Kingdom,Europe,54.0,-2.0,Phishing,Transport,Cybercriminal Group,High,2783786,3.26,629
+348,2023-06-01,India,Asia,21.0,78.0,Ransomware,Healthcare,Insider,Low,4415881,364.13,374
+349,2023-12-11,Indonesia,Asia,-0.8,113.9,Phishing,Telecom,Cybercriminal Group,High,1322238,37.79,448
+350,2024-07-29,Israel,Asia,31.0,34.9,Zero-Day Exploit,Education,Cybercriminal Group,Critical,308879,278.97,180
+351,2025-08-29,Germany,Europe,51.0,10.0,Data Breach,Defense,Unknown,Critical,4761390,68.2,34
+352,2024-08-02,India,Asia,21.0,78.0,Phishing,Finance,Unknown,Medium,1180802,49.1,340
+353,2025-09-13,Israel,Asia,31.0,34.9,DDoS,Finance,Unknown,High,351385,47.21,655
+354,2023-03-11,Israel,Asia,31.0,34.9,Phishing,Education,Cybercriminal Group,Medium,907259,1.46,2
+355,2024-05-19,United States,North America,38.0,-97.0,Phishing,Defense,Cybercriminal Group,High,3149643,10.77,104
+356,2024-04-07,Singapore,Asia,1.35,103.8,Data Breach,Finance,Unknown,Medium,281286,417.3,302
+357,2024-01-20,United States,North America,38.0,-97.0,DDoS,Healthcare,Insider,Low,286909,12.85,96
+358,2025-08-23,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Healthcare,Hacktivist,Low,227746,1256.92,161
+359,2025-01-09,United States,North America,38.0,-97.0,Phishing,Transport,Cybercriminal Group,High,2362586,39.03,305
+360,2024-01-05,China,Asia,35.0,103.0,Ransomware,Government,Cybercriminal Group,Medium,2471859,294.45,678
+361,2023-10-26,Canada,North America,56.1,-106.3,Phishing,Finance,Cybercriminal Group,Low,969959,3.41,316
+362,2024-07-11,Israel,Asia,31.0,34.9,Phishing,Defense,State-sponsored,Low,3200794,36.01,379
+363,2023-10-03,India,Asia,21.0,78.0,Ransomware,Government,State-sponsored,Medium,812200,231.08,88
+364,2023-03-04,Ukraine,Europe,48.4,31.2,Data Breach,Defense,Unknown,Medium,3512740,230.53,549
+365,2023-03-22,Ukraine,Europe,48.4,31.2,Supply Chain,Defense,Unknown,High,374601,212.59,36
+366,2023-05-31,South Korea,Asia,35.9,127.8,SQL Injection,Finance,Unknown,Critical,235526,97.25,178
+367,2024-03-09,Indonesia,Asia,-0.8,113.9,DDoS,Finance,Unknown,Low,228371,12.54,207
+368,2025-01-14,Mexico,North America,23.6,-102.6,Malware,Finance,State-sponsored,High,291795,59.05,407
+369,2024-09-30,Brazil,South America,-14.2,-51.9,SQL Injection,Transport,Insider,High,59092,9.79,425
+370,2024-07-30,India,Asia,21.0,78.0,Malware,Finance,Unknown,Critical,454906,12.74,549
+371,2024-09-15,Nigeria,Africa,9.1,8.7,SQL Injection,Retail,State-sponsored,High,144496,36.11,413
+372,2025-06-19,India,Asia,21.0,78.0,Malware,Education,Hacktivist,Medium,25942,14.93,487
+373,2025-05-13,Turkey,Asia/Europe,38.9,35.2,SQL Injection,Retail,Unknown,Medium,359159,4.15,101
+374,2025-04-25,Mexico,North America,23.6,-102.6,DDoS,Education,Cybercriminal Group,High,218608,55.07,620
+375,2025-02-16,Ukraine,Europe,48.4,31.2,DDoS,Transport,Unknown,High,430549,20.85,58
+376,2025-03-10,South Korea,Asia,35.9,127.8,DDoS,Transport,Unknown,High,15277,42.5,178
+377,2023-02-21,India,Asia,21.0,78.0,SQL Injection,Education,Hacktivist,Low,143743,30.42,378
+378,2023-09-05,Singapore,Asia,1.35,103.8,Malware,Education,Cybercriminal Group,High,233986,13.78,182
+379,2025-07-04,Indonesia,Asia,-0.8,113.9,Phishing,Telecom,Insider,Low,759262,22.95,292
+380,2024-10-24,United States,North America,38.0,-97.0,Ransomware,Energy,Hacktivist,Critical,2258236,257.9,668
+381,2025-07-22,France,Europe,46.2,2.2,Ransomware,Healthcare,Hacktivist,Low,71998,789.09,230
+382,2024-03-09,Russia,Europe/Asia,61.5,105.3,Data Breach,Defense,Unknown,High,3851354,234.66,259
+383,2023-04-15,China,Asia,35.0,103.0,Phishing,Government,Cybercriminal Group,High,3140266,32.68,575
+384,2023-12-11,Ukraine,Europe,48.4,31.2,Malware,Telecom,Hacktivist,Medium,451769,7.11,284
+385,2024-06-13,Russia,Europe/Asia,61.5,105.3,Data Breach,Energy,Unknown,Medium,3390823,313.95,677
+386,2023-09-23,United Kingdom,Europe,54.0,-2.0,DDoS,Defense,Cybercriminal Group,Critical,386359,6.91,37
+387,2023-08-16,Australia,Oceania,-25.3,133.8,Zero-Day Exploit,Transport,Hacktivist,Critical,249522,576.73,688
+388,2023-07-05,Germany,Europe,51.0,10.0,Phishing,Telecom,State-sponsored,High,1074273,16.92,265
+389,2024-11-01,Ukraine,Europe,48.4,31.2,Malware,Finance,Cybercriminal Group,Critical,117188,128.47,315
+390,2025-05-21,France,Europe,46.2,2.2,SQL Injection,Finance,Cybercriminal Group,Medium,454339,36.28,650
+391,2025-06-07,Australia,Oceania,-25.3,133.8,Supply Chain,Defense,Cybercriminal Group,High,216687,39.57,56
+392,2024-08-06,Nigeria,Africa,9.1,8.7,DDoS,Retail,State-sponsored,High,452242,79.43,185
+393,2023-03-01,Israel,Asia,31.0,34.9,Phishing,Government,Cybercriminal Group,Medium,1757426,15.59,173
+394,2024-03-20,Australia,Oceania,-25.3,133.8,DDoS,Defense,Cybercriminal Group,Low,250395,19.17,393
+395,2025-02-14,United States,North America,38.0,-97.0,Malware,Transport,State-sponsored,High,354910,15.67,5
+396,2023-04-16,Canada,North America,56.1,-106.3,DDoS,Defense,Cybercriminal Group,High,160592,57.01,172
+397,2024-09-02,United States,North America,38.0,-97.0,Ransomware,Transport,Cybercriminal Group,Critical,1123307,475.26,351
+398,2025-07-29,Mexico,North America,23.6,-102.6,Phishing,Defense,State-sponsored,Critical,1882743,18.3,135
+399,2024-10-28,China,Asia,35.0,103.0,Ransomware,Government,Cybercriminal Group,High,2146715,78.67,548
+400,2023-01-21,Canada,North America,56.1,-106.3,Malware,Government,Hacktivist,High,218610,2.15,455
+401,2024-12-03,Germany,Europe,51.0,10.0,Malware,Government,Cybercriminal Group,Medium,347002,21.19,104
+402,2025-07-09,Ukraine,Europe,48.4,31.2,DDoS,Finance,Cybercriminal Group,High,323951,30.25,121
+403,2023-09-27,United Kingdom,Europe,54.0,-2.0,Data Breach,Transport,Unknown,Medium,3003465,272.61,420
+404,2024-05-07,United Kingdom,Europe,54.0,-2.0,Ransomware,Education,Cybercriminal Group,High,107949,154.95,688
+405,2023-04-03,United States,North America,38.0,-97.0,Ransomware,Transport,State-sponsored,Medium,850686,295.59,263
+406,2023-04-13,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,Unknown,High,2438454,39.14,369
+407,2025-06-30,Singapore,Asia,1.35,103.8,Phishing,Government,State-sponsored,High,1161936,9.02,680
+408,2025-01-20,Ukraine,Europe,48.4,31.2,Phishing,Finance,Cybercriminal Group,Medium,2875966,53.99,188
+409,2024-05-04,India,Asia,21.0,78.0,Phishing,Defense,Hacktivist,High,1400041,19.35,116
+410,2025-07-22,India,Asia,21.0,78.0,Data Breach,Retail,Unknown,Medium,3676576,206.3,186
+411,2025-01-14,Canada,North America,56.1,-106.3,Data Breach,Healthcare,Cybercriminal Group,Critical,4095670,439.61,116
+412,2024-12-22,Nigeria,Africa,9.1,8.7,Phishing,Transport,Insider,Medium,4838282,8.81,579
+413,2024-12-18,China,Asia,35.0,103.0,Zero-Day Exploit,Finance,Cybercriminal Group,High,381074,922.51,255
+414,2024-07-25,Japan,Asia,36.2,138.2,Malware,Government,State-sponsored,High,489979,27.8,161
+415,2024-05-18,South Korea,Asia,35.9,127.8,Phishing,Education,Cybercriminal Group,Low,2334351,12.51,52
+416,2024-03-30,South Korea,Asia,35.9,127.8,Malware,Retail,State-sponsored,Low,261434,17.39,458
+417,2024-02-27,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Government,Cybercriminal Group,Medium,188,158.79,94
+418,2024-11-01,Israel,Asia,31.0,34.9,Zero-Day Exploit,Retail,Unknown,High,190596,685.73,56
+419,2025-01-03,Singapore,Asia,1.35,103.8,SQL Injection,Education,Insider,High,59881,32.88,100
+420,2023-10-26,Israel,Asia,31.0,34.9,DDoS,Transport,Cybercriminal Group,Critical,368200,61.2,109
+421,2024-02-24,United States,North America,38.0,-97.0,DDoS,Finance,Cybercriminal Group,Critical,102819,31.07,193
+422,2023-04-21,India,Asia,21.0,78.0,SQL Injection,Defense,State-sponsored,High,332100,9.17,689
+423,2024-05-31,Australia,Oceania,-25.3,133.8,Data Breach,Healthcare,Unknown,High,37386,331.84,544
+424,2024-06-04,Israel,Asia,31.0,34.9,Malware,Healthcare,Hacktivist,High,91142,48.85,132
+425,2024-01-29,United States,North America,38.0,-97.0,Malware,Defense,Unknown,High,480300,44.01,710
+426,2023-05-17,Israel,Asia,31.0,34.9,Phishing,Healthcare,Cybercriminal Group,High,4298438,38.62,307
+427,2024-10-09,South Africa,Africa,-30.6,22.9,Malware,Energy,State-sponsored,Critical,327343,49.44,298
+428,2025-09-08,Ukraine,Europe,48.4,31.2,Supply Chain,Healthcare,Cybercriminal Group,High,364119,202.57,653
+429,2025-08-23,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,Hacktivist,High,4479701,189.07,293
+430,2023-05-29,Nigeria,Africa,9.1,8.7,Phishing,Government,Hacktivist,Low,1677903,0.75,274
+431,2023-03-05,Israel,Asia,31.0,34.9,DDoS,Telecom,State-sponsored,Low,283830,26.5,34
+432,2025-06-04,Germany,Europe,51.0,10.0,Phishing,Energy,Insider,Critical,4709278,50.82,399
+433,2023-02-18,China,Asia,35.0,103.0,Data Breach,Defense,Cybercriminal Group,High,2623731,282.61,566
+434,2025-07-22,United States,North America,38.0,-97.0,Data Breach,Education,Insider,Critical,4586340,83.03,618
+435,2024-11-30,India,Asia,21.0,78.0,Data Breach,Finance,State-sponsored,Medium,1458899,79.82,527
+436,2024-08-21,India,Asia,21.0,78.0,Ransomware,Telecom,State-sponsored,Medium,3912870,153.97,159
+437,2024-11-08,United States,North America,38.0,-97.0,Supply Chain,Telecom,Cybercriminal Group,High,300347,736.41,564
+438,2024-06-17,Germany,Europe,51.0,10.0,Data Breach,Finance,Unknown,Critical,1337896,72.89,426
+439,2023-12-06,Brazil,South America,-14.2,-51.9,Phishing,Education,Cybercriminal Group,High,4451147,9.17,487
+440,2023-12-21,Mexico,North America,23.6,-102.6,SQL Injection,Retail,Cybercriminal Group,Low,336831,17.68,629
+441,2025-03-26,Turkey,Asia/Europe,38.9,35.2,DDoS,Finance,Cybercriminal Group,Medium,283339,7.99,290
+442,2024-04-01,United States,North America,38.0,-97.0,Malware,Retail,State-sponsored,Critical,471058,82.28,668
+443,2025-03-02,India,Asia,21.0,78.0,Malware,Transport,Cybercriminal Group,Critical,328793,39.95,68
+444,2023-04-17,China,Asia,35.0,103.0,Malware,Energy,Cybercriminal Group,High,368539,36.14,446
+445,2025-01-04,Ukraine,Europe,48.4,31.2,Supply Chain,Education,State-sponsored,Low,38503,272.68,56
+446,2024-02-22,India,Asia,21.0,78.0,DDoS,Defense,Cybercriminal Group,Critical,212147,6.17,444
+447,2024-09-25,United Kingdom,Europe,54.0,-2.0,Phishing,Finance,Insider,High,4913436,1.95,47
+448,2024-12-03,Ukraine,Europe,48.4,31.2,Ransomware,Telecom,Hacktivist,Medium,2362539,139.64,449
+449,2023-05-20,Germany,Europe,51.0,10.0,SQL Injection,Defense,Unknown,Medium,445465,2.85,559
+450,2025-09-07,United Kingdom,Europe,54.0,-2.0,Malware,Government,Cybercriminal Group,High,291116,47.34,145
+451,2023-03-29,India,Asia,21.0,78.0,Ransomware,Telecom,State-sponsored,High,2885436,459.59,217
+452,2024-09-23,France,Europe,46.2,2.2,Malware,Telecom,State-sponsored,Low,95183,22.7,688
+453,2024-07-16,Singapore,Asia,1.35,103.8,SQL Injection,Finance,Cybercriminal Group,High,35417,77.29,257
+454,2024-11-18,United States,North America,38.0,-97.0,Data Breach,Energy,State-sponsored,High,586599,178.21,199
+455,2023-06-06,United Kingdom,Europe,54.0,-2.0,Phishing,Education,Unknown,High,3593902,25.42,173
+456,2023-10-11,United States,North America,38.0,-97.0,DDoS,Education,State-sponsored,High,384388,43.23,340
+457,2023-04-22,Nigeria,Africa,9.1,8.7,Phishing,Healthcare,Hacktivist,Medium,688645,15.63,288
+458,2024-10-03,South Africa,Africa,-30.6,22.9,DDoS,Finance,Insider,Critical,467820,45.4,20
+459,2024-08-27,South Africa,Africa,-30.6,22.9,Malware,Energy,Unknown,High,289294,86.45,267
+460,2023-08-17,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Telecom,State-sponsored,High,262832,207.79,523
+461,2025-04-05,United States,North America,38.0,-97.0,Phishing,Healthcare,Insider,High,1178514,1.44,457
+462,2024-05-10,India,Asia,21.0,78.0,Malware,Education,State-sponsored,High,399330,24.81,500
+463,2025-07-18,China,Asia,35.0,103.0,DDoS,Education,Cybercriminal Group,Medium,481344,45.1,466
+464,2024-06-17,Nigeria,Africa,9.1,8.7,Ransomware,Telecom,Unknown,Critical,2209855,99.39,593
+465,2025-07-08,Brazil,South America,-14.2,-51.9,DDoS,Finance,Cybercriminal Group,High,197404,54.03,229
+466,2025-06-27,South Korea,Asia,35.9,127.8,Phishing,Government,Cybercriminal Group,Critical,1166750,34.97,451
+467,2023-06-11,India,Asia,21.0,78.0,Ransomware,Education,Hacktivist,Medium,993625,197.32,677
+468,2024-05-05,China,Asia,35.0,103.0,Data Breach,Energy,Hacktivist,High,3447872,256.29,23
+469,2023-02-10,Russia,Europe/Asia,61.5,105.3,Ransomware,Healthcare,State-sponsored,High,2167438,182.6,185
+470,2025-01-06,South Korea,Asia,35.9,127.8,Phishing,Telecom,Unknown,Low,1817917,77.66,460
+471,2024-09-07,Canada,North America,56.1,-106.3,Phishing,Healthcare,Unknown,High,1526754,12.18,639
+472,2024-09-02,Ukraine,Europe,48.4,31.2,DDoS,Finance,Cybercriminal Group,Critical,202193,59.31,136
+473,2025-04-26,United States,North America,38.0,-97.0,DDoS,Healthcare,Hacktivist,High,93120,104.2,488
+474,2023-05-01,Turkey,Asia/Europe,38.9,35.2,Malware,Finance,Cybercriminal Group,High,68429,92.9,618
+475,2024-06-18,Brazil,South America,-14.2,-51.9,Ransomware,Defense,Cybercriminal Group,High,365386,940.23,715
+476,2025-04-03,South Korea,Asia,35.9,127.8,DDoS,Finance,Cybercriminal Group,High,133540,65.17,489
+477,2024-02-23,Israel,Asia,31.0,34.9,Supply Chain,Telecom,State-sponsored,Critical,371898,109.79,8
+478,2025-04-03,Australia,Oceania,-25.3,133.8,Ransomware,Education,Cybercriminal Group,Medium,895084,46.91,159
+479,2024-01-10,France,Europe,46.2,2.2,Malware,Telecom,Unknown,High,208480,31.87,209
+480,2024-05-10,France,Europe,46.2,2.2,Data Breach,Telecom,Unknown,High,4846689,176.63,353
+481,2023-08-24,Israel,Asia,31.0,34.9,Phishing,Retail,Insider,Low,1358235,14.49,103
+482,2024-12-01,China,Asia,35.0,103.0,Phishing,Government,State-sponsored,High,45381,22.29,94
+483,2023-08-16,Singapore,Asia,1.35,103.8,Phishing,Education,State-sponsored,Low,317714,7.44,394
+484,2024-09-03,Turkey,Asia/Europe,38.9,35.2,Phishing,Government,Unknown,High,1471280,26.93,656
+485,2023-02-04,South Korea,Asia,35.9,127.8,Ransomware,Transport,Cybercriminal Group,Medium,1944396,642.41,630
+486,2023-03-30,India,Asia,21.0,78.0,Ransomware,Telecom,Insider,Critical,2963249,40.45,686
+487,2025-07-30,Germany,Europe,51.0,10.0,Malware,Finance,Cybercriminal Group,Critical,380805,76.34,573
+488,2025-09-13,Turkey,Asia/Europe,38.9,35.2,Phishing,Energy,Cybercriminal Group,Medium,3389632,38.6,589
+489,2023-10-29,United States,North America,38.0,-97.0,DDoS,Education,Unknown,Low,421072,64.45,526
+490,2024-03-29,Indonesia,Asia,-0.8,113.9,SQL Injection,Defense,Cybercriminal Group,Medium,403784,74.02,250
+491,2025-06-01,Israel,Asia,31.0,34.9,Zero-Day Exploit,Government,Cybercriminal Group,Critical,135271,337.43,70
+492,2023-11-20,Germany,Europe,51.0,10.0,Data Breach,Defense,Unknown,Medium,4333751,177.66,549
+493,2025-02-05,United States,North America,38.0,-97.0,SQL Injection,Education,State-sponsored,Medium,488419,5.15,183
+494,2025-02-03,Japan,Asia,36.2,138.2,Phishing,Energy,Cybercriminal Group,Medium,1675924,35.98,241
+495,2025-05-06,Israel,Asia,31.0,34.9,SQL Injection,Education,State-sponsored,High,56035,8.87,123
+496,2025-05-27,Turkey,Asia/Europe,38.9,35.2,Malware,Transport,Unknown,Low,444701,71.68,494
+497,2024-05-17,Germany,Europe,51.0,10.0,Phishing,Healthcare,Unknown,Critical,4288699,54.19,287
+498,2024-05-04,Germany,Europe,51.0,10.0,Data Breach,Transport,State-sponsored,Critical,2914270,86.94,404
+499,2024-04-16,South Africa,Africa,-30.6,22.9,Data Breach,Education,Hacktivist,High,100153,50.45,691
+500,2023-07-11,China,Asia,35.0,103.0,Malware,Transport,Cybercriminal Group,Critical,141347,38.22,483
+501,2024-12-18,Indonesia,Asia,-0.8,113.9,Phishing,Education,Cybercriminal Group,Medium,3361414,8.99,287
+502,2023-04-13,Japan,Asia,36.2,138.2,Malware,Telecom,Unknown,Medium,291258,137.26,443
+503,2025-04-05,South Africa,Africa,-30.6,22.9,DDoS,Government,State-sponsored,Medium,262033,130.01,138
+504,2024-05-13,Mexico,North America,23.6,-102.6,SQL Injection,Telecom,Cybercriminal Group,High,450202,64.94,582
+505,2024-05-02,United States,North America,38.0,-97.0,Ransomware,Finance,Cybercriminal Group,Critical,2808302,59.04,267
+506,2024-02-26,Germany,Europe,51.0,10.0,Malware,Finance,Cybercriminal Group,High,356398,65.5,621
+507,2023-10-19,India,Asia,21.0,78.0,Malware,Education,Cybercriminal Group,Critical,267719,28.11,500
+508,2024-10-08,Israel,Asia,31.0,34.9,Phishing,Healthcare,Unknown,Medium,2831218,7.47,432
+509,2023-12-18,Canada,North America,56.1,-106.3,Malware,Energy,Cybercriminal Group,Low,342466,18.01,299
+510,2025-08-19,Ukraine,Europe,48.4,31.2,Malware,Education,Insider,Critical,273220,30.1,462
+511,2023-09-15,France,Europe,46.2,2.2,DDoS,Finance,State-sponsored,Medium,208266,13.47,106
+512,2024-02-11,United States,North America,38.0,-97.0,Supply Chain,Transport,Insider,Low,43747,89.12,107
+513,2023-09-11,Russia,Europe/Asia,61.5,105.3,DDoS,Telecom,Cybercriminal Group,High,66376,54.11,135
+514,2023-11-30,South Korea,Asia,35.9,127.8,DDoS,Retail,Cybercriminal Group,High,456701,7.64,554
+515,2024-08-28,Indonesia,Asia,-0.8,113.9,Malware,Retail,Hacktivist,Medium,333469,25.84,578
+516,2023-08-21,France,Europe,46.2,2.2,Malware,Finance,Cybercriminal Group,High,191875,39.23,423
+517,2024-04-25,Russia,Europe/Asia,61.5,105.3,Phishing,Transport,State-sponsored,Medium,4127621,1.2,489
+518,2023-01-08,United Kingdom,Europe,54.0,-2.0,Data Breach,Transport,Cybercriminal Group,Medium,3454890,423.48,575
+519,2024-01-23,France,Europe,46.2,2.2,DDoS,Energy,Cybercriminal Group,High,221475,117.24,641
+520,2023-10-19,Russia,Europe/Asia,61.5,105.3,Data Breach,Transport,Unknown,High,3464688,639.67,193
+521,2024-04-08,South Africa,Africa,-30.6,22.9,DDoS,Telecom,Hacktivist,High,258047,53.44,193
+522,2023-04-15,United Kingdom,Europe,54.0,-2.0,DDoS,Telecom,Cybercriminal Group,Low,375068,23.32,449
+523,2024-03-06,Ukraine,Europe,48.4,31.2,DDoS,Telecom,Unknown,Medium,261402,16.3,381
+524,2025-03-05,Japan,Asia,36.2,138.2,Data Breach,Defense,State-sponsored,Low,3944877,75.38,186
+525,2025-02-25,India,Asia,21.0,78.0,SQL Injection,Energy,Cybercriminal Group,Low,232339,14.87,254
+526,2023-08-02,Israel,Asia,31.0,34.9,Ransomware,Retail,Cybercriminal Group,High,2619163,72.36,331
+527,2023-09-17,India,Asia,21.0,78.0,Data Breach,Retail,Hacktivist,High,1668014,396.72,370
+528,2024-03-20,Nigeria,Africa,9.1,8.7,SQL Injection,Education,State-sponsored,Medium,416589,4.62,283
+529,2024-12-08,Australia,Oceania,-25.3,133.8,Phishing,Retail,Hacktivist,Medium,1301166,3.37,381
+530,2025-08-11,Israel,Asia,31.0,34.9,DDoS,Government,State-sponsored,High,338042,84.99,158
+531,2024-07-25,Ukraine,Europe,48.4,31.2,Data Breach,Education,Unknown,High,3681240,34.29,198
+532,2024-05-11,United States,North America,38.0,-97.0,Phishing,Retail,Cybercriminal Group,High,4553783,29.53,714
+533,2023-10-09,South Korea,Asia,35.9,127.8,Malware,Transport,State-sponsored,Critical,278568,39.88,159
+534,2024-10-15,Japan,Asia,36.2,138.2,SQL Injection,Transport,Cybercriminal Group,Low,97373,33.87,20
+535,2024-11-05,Canada,North America,56.1,-106.3,Phishing,Transport,Unknown,High,1593740,25.57,537
+536,2024-10-18,Ukraine,Europe,48.4,31.2,Data Breach,Education,State-sponsored,High,4389924,66.63,675
+537,2024-05-12,United States,North America,38.0,-97.0,SQL Injection,Energy,State-sponsored,Medium,299474,3.12,658
+538,2023-02-20,South Africa,Africa,-30.6,22.9,Malware,Education,Cybercriminal Group,High,376457,77.41,73
+539,2024-10-16,United States,North America,38.0,-97.0,Supply Chain,Government,Cybercriminal Group,High,389896,120.62,426
+540,2023-02-11,Singapore,Asia,1.35,103.8,Data Breach,Finance,Unknown,Medium,654769,51.8,222
+541,2023-07-17,Indonesia,Asia,-0.8,113.9,Ransomware,Transport,Hacktivist,High,4782738,552.12,641
+542,2024-10-15,Indonesia,Asia,-0.8,113.9,Malware,Education,Hacktivist,Medium,368438,81.67,682
+543,2023-12-12,France,Europe,46.2,2.2,Ransomware,Healthcare,Cybercriminal Group,High,3717255,600.57,361
+544,2024-10-10,Turkey,Asia/Europe,38.9,35.2,Malware,Defense,Unknown,High,169681,69.79,624
+545,2023-09-18,Russia,Europe/Asia,61.5,105.3,Malware,Education,Unknown,Critical,234718,43.13,407
+546,2025-06-30,United States,North America,38.0,-97.0,Ransomware,Telecom,State-sponsored,High,1862320,46.97,220
+547,2025-07-30,South Africa,Africa,-30.6,22.9,Ransomware,Transport,Cybercriminal Group,Critical,4788111,829.06,586
+548,2025-06-29,India,Asia,21.0,78.0,Ransomware,Energy,Cybercriminal Group,Medium,2520119,114.43,95
+549,2025-03-22,Australia,Oceania,-25.3,133.8,Malware,Retail,State-sponsored,High,433007,5.51,707
+550,2025-01-18,Ukraine,Europe,48.4,31.2,SQL Injection,Defense,State-sponsored,Medium,29419,16.87,343
+551,2023-08-21,Germany,Europe,51.0,10.0,Data Breach,Government,Hacktivist,Critical,3209533,46.36,56
+552,2024-12-15,United Kingdom,Europe,54.0,-2.0,Ransomware,Energy,State-sponsored,High,3296738,167.5,457
+553,2024-02-08,Israel,Asia,31.0,34.9,Malware,Healthcare,State-sponsored,Medium,43377,9.95,488
+554,2024-03-20,Australia,Oceania,-25.3,133.8,Ransomware,Healthcare,Insider,High,4035270,63.48,573
+555,2025-01-23,India,Asia,21.0,78.0,Phishing,Transport,Cybercriminal Group,High,601993,35.57,273
+556,2024-02-28,Israel,Asia,31.0,34.9,Phishing,Defense,Cybercriminal Group,Low,1598943,11.14,329
+557,2024-09-23,Germany,Europe,51.0,10.0,Malware,Retail,Hacktivist,Critical,231029,32.88,46
+558,2025-05-23,Turkey,Asia/Europe,38.9,35.2,DDoS,Finance,State-sponsored,Critical,28693,33.84,249
+559,2024-12-11,Indonesia,Asia,-0.8,113.9,Supply Chain,Finance,Cybercriminal Group,Low,247139,524.53,24
+560,2023-09-22,United Kingdom,Europe,54.0,-2.0,Data Breach,Transport,Cybercriminal Group,High,1186708,128.97,712
+561,2023-09-19,Ukraine,Europe,48.4,31.2,Ransomware,Healthcare,State-sponsored,High,1684560,599.68,714
+562,2024-11-07,Canada,North America,56.1,-106.3,Ransomware,Telecom,Hacktivist,Low,3022737,100.29,111
+563,2024-06-04,United States,North America,38.0,-97.0,SQL Injection,Finance,Unknown,Critical,254202,24.01,612
+564,2024-12-30,South Korea,Asia,35.9,127.8,DDoS,Government,State-sponsored,High,483635,42.55,543
+565,2023-12-27,United Kingdom,Europe,54.0,-2.0,Phishing,Education,Hacktivist,Medium,1982429,9.09,514
+566,2025-04-14,United Kingdom,Europe,54.0,-2.0,Ransomware,Government,Unknown,Critical,2351436,143.69,231
+567,2024-06-17,India,Asia,21.0,78.0,SQL Injection,Energy,Cybercriminal Group,High,300463,12.13,157
+568,2023-07-31,France,Europe,46.2,2.2,Phishing,Healthcare,Hacktivist,Medium,1698101,25.0,142
+569,2025-07-19,United Kingdom,Europe,54.0,-2.0,Data Breach,Healthcare,Hacktivist,High,4739257,114.28,162
+570,2025-05-09,United Kingdom,Europe,54.0,-2.0,Malware,Healthcare,Insider,Low,401408,19.98,327
+571,2025-04-21,Nigeria,Africa,9.1,8.7,Phishing,Telecom,State-sponsored,High,1577501,17.63,110
+572,2024-08-03,India,Asia,21.0,78.0,Ransomware,Energy,Hacktivist,Medium,1938033,739.89,704
+573,2024-09-11,United States,North America,38.0,-97.0,Ransomware,Retail,Hacktivist,High,3137998,236.59,189
+574,2024-02-23,South Africa,Africa,-30.6,22.9,Phishing,Government,Unknown,Medium,3465864,4.34,228
+575,2025-09-04,Israel,Asia,31.0,34.9,Zero-Day Exploit,Retail,Unknown,Medium,256971,161.31,705
+576,2024-09-14,United Kingdom,Europe,54.0,-2.0,Phishing,Defense,Insider,High,3307375,11.38,627
+577,2025-03-16,Indonesia,Asia,-0.8,113.9,Malware,Government,Cybercriminal Group,Critical,236873,78.77,468
+578,2025-01-22,Singapore,Asia,1.35,103.8,Ransomware,Government,Cybercriminal Group,High,4330584,747.0,646
+579,2023-10-20,Indonesia,Asia,-0.8,113.9,DDoS,Retail,State-sponsored,Critical,154460,37.97,628
+580,2024-04-07,Turkey,Asia/Europe,38.9,35.2,Data Breach,Finance,Insider,Critical,950352,317.73,185
+581,2023-11-28,Israel,Asia,31.0,34.9,Supply Chain,Retail,State-sponsored,High,237959,255.16,605
+582,2024-12-09,Nigeria,Africa,9.1,8.7,SQL Injection,Healthcare,Insider,Medium,64872,15.99,94
+583,2025-01-14,India,Asia,21.0,78.0,Phishing,Transport,Hacktivist,High,1342335,23.69,388
+584,2024-11-06,Brazil,South America,-14.2,-51.9,Ransomware,Healthcare,State-sponsored,High,1214054,102.02,184
+585,2024-04-01,Israel,Asia,31.0,34.9,Ransomware,Telecom,Hacktivist,Critical,987114,335.74,135
+586,2025-05-25,Indonesia,Asia,-0.8,113.9,Ransomware,Retail,Cybercriminal Group,High,49239,116.22,623
+587,2024-03-28,Nigeria,Africa,9.1,8.7,DDoS,Finance,Hacktivist,High,3546,49.16,251
+588,2023-06-01,Nigeria,Africa,9.1,8.7,Phishing,Government,Hacktivist,Low,309038,15.53,149
+589,2023-03-31,South Africa,Africa,-30.6,22.9,Malware,Government,State-sponsored,High,93553,59.31,166
+590,2024-07-29,Ukraine,Europe,48.4,31.2,Malware,Healthcare,Unknown,High,392967,74.46,593
+591,2024-01-24,Germany,Europe,51.0,10.0,Ransomware,Finance,Insider,High,4618686,388.89,67
+592,2024-02-28,United Kingdom,Europe,54.0,-2.0,Ransomware,Transport,State-sponsored,High,1754646,353.42,627
+593,2024-05-10,United States,North America,38.0,-97.0,Malware,Telecom,Cybercriminal Group,Critical,444590,102.96,325
+594,2024-05-23,Russia,Europe/Asia,61.5,105.3,Malware,Transport,Insider,High,261059,27.08,505
+595,2023-01-02,Singapore,Asia,1.35,103.8,SQL Injection,Finance,State-sponsored,Critical,328021,16.27,121
+596,2023-12-08,Israel,Asia,31.0,34.9,DDoS,Education,Cybercriminal Group,High,334335,51.15,218
+597,2024-06-02,United States,North America,38.0,-97.0,DDoS,Transport,Cybercriminal Group,Medium,3314,7.84,117
+598,2025-05-02,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,State-sponsored,Critical,2835819,44.29,689
+599,2024-10-04,Japan,Asia,36.2,138.2,Phishing,Retail,Unknown,Medium,4505410,2.01,344
+600,2023-11-03,Japan,Asia,36.2,138.2,Data Breach,Education,Cybercriminal Group,Critical,158021,97.74,214
+601,2023-06-02,Australia,Oceania,-25.3,133.8,Phishing,Telecom,Unknown,Low,2846016,36.82,385
+602,2023-04-30,Canada,North America,56.1,-106.3,SQL Injection,Telecom,Hacktivist,Medium,164988,35.55,33
+603,2025-08-31,Russia,Europe/Asia,61.5,105.3,Ransomware,Telecom,Cybercriminal Group,High,2537029,440.98,180
+604,2023-01-26,United States,North America,38.0,-97.0,Data Breach,Retail,Unknown,High,1293498,82.67,195
+605,2023-05-27,United Kingdom,Europe,54.0,-2.0,Phishing,Finance,Unknown,Critical,4330751,35.21,693
+606,2024-06-18,Mexico,North America,23.6,-102.6,DDoS,Finance,State-sponsored,High,488913,7.74,46
+607,2023-04-16,Ukraine,Europe,48.4,31.2,Malware,Transport,Insider,High,390985,9.75,320
+608,2023-07-17,United States,North America,38.0,-97.0,Data Breach,Telecom,Cybercriminal Group,High,2678222,137.41,452
+609,2024-09-29,Ukraine,Europe,48.4,31.2,DDoS,Transport,Cybercriminal Group,Low,108406,5.04,556
+610,2024-08-10,Germany,Europe,51.0,10.0,Phishing,Energy,State-sponsored,High,2613024,14.76,628
+611,2024-11-22,Nigeria,Africa,9.1,8.7,Malware,Government,State-sponsored,Medium,28306,2.2,89
+612,2024-12-07,France,Europe,46.2,2.2,DDoS,Retail,Hacktivist,High,163908,74.56,341
+613,2025-08-02,Singapore,Asia,1.35,103.8,Data Breach,Retail,Cybercriminal Group,Low,780437,359.61,716
+614,2024-04-26,Japan,Asia,36.2,138.2,Phishing,Energy,Unknown,Critical,1206624,56.02,632
+615,2025-05-31,Russia,Europe/Asia,61.5,105.3,Phishing,Education,Cybercriminal Group,Medium,254873,17.93,67
+616,2023-12-23,Japan,Asia,36.2,138.2,Phishing,Healthcare,Cybercriminal Group,Medium,3404140,11.72,110
+617,2024-08-27,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Cybercriminal Group,High,127864,84.45,562
+618,2024-08-28,India,Asia,21.0,78.0,Phishing,Defense,Insider,High,3653011,2.71,581
+619,2025-01-27,Israel,Asia,31.0,34.9,Malware,Retail,State-sponsored,High,312615,39.17,475
+620,2023-03-13,United Kingdom,Europe,54.0,-2.0,Ransomware,Finance,Hacktivist,Critical,3179535,233.7,336
+621,2025-07-13,South Korea,Asia,35.9,127.8,Malware,Government,Insider,High,346592,5.99,153
+622,2024-11-28,Japan,Asia,36.2,138.2,Phishing,Education,Cybercriminal Group,Low,2555751,25.39,446
+623,2024-06-06,Ukraine,Europe,48.4,31.2,Supply Chain,Defense,Unknown,Low,447058,891.62,302
+624,2025-04-20,United States,North America,38.0,-97.0,SQL Injection,Education,State-sponsored,High,148058,17.45,32
+625,2024-02-20,China,Asia,35.0,103.0,Data Breach,Defense,Cybercriminal Group,Critical,1772808,147.08,679
+626,2023-06-07,India,Asia,21.0,78.0,DDoS,Telecom,Unknown,Critical,351407,46.66,129
+627,2024-11-04,India,Asia,21.0,78.0,Ransomware,Defense,Unknown,Critical,1139969,55.08,87
+628,2024-03-11,India,Asia,21.0,78.0,Data Breach,Healthcare,Cybercriminal Group,High,3558815,606.3,566
+629,2024-08-14,Singapore,Asia,1.35,103.8,Phishing,Retail,Unknown,High,1987002,10.58,514
+630,2024-08-04,Russia,Europe/Asia,61.5,105.3,Supply Chain,Retail,Hacktivist,Critical,59430,106.92,595
+631,2025-05-29,Japan,Asia,36.2,138.2,Data Breach,Telecom,Cybercriminal Group,High,657279,125.2,536
+632,2024-11-15,Nigeria,Africa,9.1,8.7,Ransomware,Finance,Hacktivist,High,4524114,493.55,594
+633,2024-06-08,United Kingdom,Europe,54.0,-2.0,Ransomware,Retail,Hacktivist,High,2781940,55.47,432
+634,2025-08-03,Germany,Europe,51.0,10.0,Zero-Day Exploit,Telecom,Insider,Low,295644,136.44,267
+635,2023-10-26,United States,North America,38.0,-97.0,Phishing,Government,Cybercriminal Group,High,693145,2.53,130
+636,2023-10-09,South Korea,Asia,35.9,127.8,SQL Injection,Telecom,State-sponsored,High,58584,11.3,619
+637,2023-06-29,India,Asia,21.0,78.0,Malware,Telecom,Insider,Medium,123934,13.97,497
+638,2024-09-01,India,Asia,21.0,78.0,Malware,Healthcare,Unknown,Critical,394763,1.86,423
+639,2024-08-14,Israel,Asia,31.0,34.9,DDoS,Education,State-sponsored,Medium,138719,76.03,119
+640,2025-02-09,United States,North America,38.0,-97.0,Phishing,Transport,Cybercriminal Group,High,3273148,20.1,486
+641,2024-04-04,Russia,Europe/Asia,61.5,105.3,Malware,Defense,Hacktivist,Critical,278105,32.69,700
+642,2024-03-18,Indonesia,Asia,-0.8,113.9,Ransomware,Telecom,Cybercriminal Group,Critical,2241494,275.02,101
+643,2025-01-21,Russia,Europe/Asia,61.5,105.3,Malware,Energy,Cybercriminal Group,Critical,355419,68.87,707
+644,2023-01-13,Mexico,North America,23.6,-102.6,Phishing,Defense,State-sponsored,High,872637,0.72,702
+645,2024-09-26,Japan,Asia,36.2,138.2,DDoS,Finance,State-sponsored,Low,311599,15.75,673
+646,2023-05-03,Nigeria,Africa,9.1,8.7,DDoS,Finance,Unknown,High,68208,14.99,385
+647,2024-12-13,Ukraine,Europe,48.4,31.2,SQL Injection,Healthcare,Cybercriminal Group,High,244919,21.16,677
+648,2024-12-09,Indonesia,Asia,-0.8,113.9,Malware,Education,Cybercriminal Group,Critical,409428,64.9,76
+649,2025-04-12,United Kingdom,Europe,54.0,-2.0,Ransomware,Telecom,State-sponsored,Medium,583156,61.96,504
+650,2023-05-28,Mexico,North America,23.6,-102.6,DDoS,Transport,Insider,High,114597,68.9,629
+651,2023-03-14,Ukraine,Europe,48.4,31.2,Supply Chain,Telecom,Insider,Low,9938,130.91,510
+652,2023-06-05,India,Asia,21.0,78.0,Malware,Education,Unknown,High,301376,131.14,4
+653,2025-01-15,South Korea,Asia,35.9,127.8,Supply Chain,Finance,Cybercriminal Group,High,1834,307.14,394
+654,2024-01-03,Indonesia,Asia,-0.8,113.9,Data Breach,Education,Hacktivist,High,3361600,264.74,57
+655,2023-12-15,Canada,North America,56.1,-106.3,Zero-Day Exploit,Finance,Unknown,Critical,398796,136.12,297
+656,2023-11-03,Ukraine,Europe,48.4,31.2,DDoS,Defense,Unknown,High,330724,7.95,706
+657,2023-02-06,Germany,Europe,51.0,10.0,Ransomware,Energy,State-sponsored,Medium,4974986,647.48,245
+658,2025-09-15,South Korea,Asia,35.9,127.8,Ransomware,Retail,Unknown,High,138726,279.46,38
+659,2025-04-06,United Kingdom,Europe,54.0,-2.0,Phishing,Transport,Cybercriminal Group,Low,4502003,29.4,153
+660,2024-10-31,Israel,Asia,31.0,34.9,DDoS,Government,Cybercriminal Group,Low,481406,20.81,634
+661,2025-07-15,United States,North America,38.0,-97.0,Data Breach,Telecom,Unknown,High,817146,35.24,468
+662,2024-09-01,Canada,North America,56.1,-106.3,SQL Injection,Energy,State-sponsored,Low,106342,1.99,437
+663,2025-09-26,United Kingdom,Europe,54.0,-2.0,SQL Injection,Transport,State-sponsored,High,438628,45.06,219
+664,2025-02-14,Israel,Asia,31.0,34.9,Malware,Defense,State-sponsored,Medium,194048,7.84,567
+665,2025-05-17,India,Asia,21.0,78.0,DDoS,Defense,Insider,Low,8294,29.19,499
+666,2025-06-27,United States,North America,38.0,-97.0,Ransomware,Telecom,Cybercriminal Group,High,3994082,929.09,709
+667,2025-08-18,India,Asia,21.0,78.0,DDoS,Healthcare,Hacktivist,Medium,19824,25.32,611
+668,2023-11-05,India,Asia,21.0,78.0,Phishing,Education,Cybercriminal Group,Critical,4679413,76.22,242
+669,2025-02-18,India,Asia,21.0,78.0,Zero-Day Exploit,Transport,Cybercriminal Group,High,243482,1026.68,642
+670,2025-09-18,Ukraine,Europe,48.4,31.2,Phishing,Retail,Cybercriminal Group,High,1341160,5.62,687
+671,2023-12-09,Turkey,Asia/Europe,38.9,35.2,Ransomware,Retail,State-sponsored,High,441037,116.89,551
+672,2023-08-29,India,Asia,21.0,78.0,Data Breach,Retail,Hacktivist,Low,2735453,53.25,430
+673,2023-04-11,India,Asia,21.0,78.0,Malware,Energy,Insider,Medium,456170,7.65,205
+674,2024-03-22,Germany,Europe,51.0,10.0,DDoS,Healthcare,Cybercriminal Group,Low,319618,40.32,466
+675,2025-09-25,India,Asia,21.0,78.0,Phishing,Telecom,State-sponsored,High,1068129,11.64,33
+676,2023-06-25,Ukraine,Europe,48.4,31.2,Ransomware,Education,Cybercriminal Group,High,2476994,85.52,619
+677,2024-07-20,India,Asia,21.0,78.0,Data Breach,Energy,State-sponsored,High,4377913,200.5,501
+678,2025-01-17,South Africa,Africa,-30.6,22.9,DDoS,Defense,Insider,Medium,129417,40.51,254
+679,2025-07-24,United Kingdom,Europe,54.0,-2.0,Malware,Government,Cybercriminal Group,Critical,23286,94.29,42
+680,2024-05-05,Mexico,North America,23.6,-102.6,Data Breach,Finance,Cybercriminal Group,High,2018556,183.91,86
+681,2023-10-30,Brazil,South America,-14.2,-51.9,Ransomware,Energy,Hacktivist,Medium,762094,222.75,17
+682,2023-01-25,Japan,Asia,36.2,138.2,Phishing,Retail,Cybercriminal Group,Critical,1163861,43.09,416
+683,2025-05-31,India,Asia,21.0,78.0,SQL Injection,Finance,Cybercriminal Group,High,362252,77.46,341
+684,2024-07-09,South Korea,Asia,35.9,127.8,Phishing,Energy,Unknown,Critical,680133,61.22,636
+685,2023-02-22,Nigeria,Africa,9.1,8.7,Data Breach,Finance,Cybercriminal Group,High,3904662,66.72,634
+686,2024-12-27,United States,North America,38.0,-97.0,Phishing,Energy,State-sponsored,Low,2810593,53.26,245
+687,2024-12-20,Brazil,South America,-14.2,-51.9,Malware,Energy,Insider,Critical,399023,79.0,231
+688,2023-03-06,United Kingdom,Europe,54.0,-2.0,SQL Injection,Education,Cybercriminal Group,Medium,255022,31.7,514
+689,2025-07-10,South Korea,Asia,35.9,127.8,Ransomware,Telecom,Cybercriminal Group,Critical,3089231,721.43,690
+690,2025-06-24,Indonesia,Asia,-0.8,113.9,Data Breach,Retail,State-sponsored,Medium,3278282,99.06,184
+691,2023-06-01,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Retail,State-sponsored,Medium,107189,103.27,534
+692,2023-05-16,Indonesia,Asia,-0.8,113.9,Ransomware,Retail,Cybercriminal Group,High,3724367,439.88,661
+693,2024-06-16,United States,North America,38.0,-97.0,DDoS,Education,Cybercriminal Group,High,179821,3.99,672
+694,2024-07-15,Ukraine,Europe,48.4,31.2,Phishing,Retail,Cybercriminal Group,High,4759451,49.1,136
+695,2025-09-21,Turkey,Asia/Europe,38.9,35.2,Phishing,Telecom,Insider,Medium,397940,19.2,152
+696,2023-10-20,Germany,Europe,51.0,10.0,Phishing,Healthcare,Unknown,High,1288523,4.99,166
+697,2024-01-14,China,Asia,35.0,103.0,Ransomware,Healthcare,State-sponsored,High,291993,103.19,682
+698,2024-06-30,United Kingdom,Europe,54.0,-2.0,Phishing,Telecom,State-sponsored,Critical,210087,24.26,415
+699,2025-09-20,Turkey,Asia/Europe,38.9,35.2,Data Breach,Transport,Unknown,Medium,2779983,332.51,663
+700,2025-03-29,Ukraine,Europe,48.4,31.2,Phishing,Retail,Cybercriminal Group,High,943171,19.52,491
+701,2024-09-24,Turkey,Asia/Europe,38.9,35.2,DDoS,Energy,Cybercriminal Group,Low,48586,46.32,335
+702,2025-02-24,United States,North America,38.0,-97.0,Malware,Telecom,State-sponsored,High,43924,25.5,552
+703,2024-05-17,South Africa,Africa,-30.6,22.9,Malware,Education,Hacktivist,High,268302,100.8,58
+704,2024-01-17,Turkey,Asia/Europe,38.9,35.2,Phishing,Government,Cybercriminal Group,Medium,2948379,7.62,316
+705,2025-01-29,Mexico,North America,23.6,-102.6,SQL Injection,Defense,Unknown,High,151427,15.99,168
+706,2024-08-24,Singapore,Asia,1.35,103.8,Zero-Day Exploit,Finance,State-sponsored,Medium,159080,313.97,487
+707,2023-04-01,Mexico,North America,23.6,-102.6,Malware,Government,Cybercriminal Group,Critical,479514,39.21,280
+708,2025-05-02,France,Europe,46.2,2.2,Malware,Defense,Cybercriminal Group,Medium,257308,30.53,44
+709,2024-04-19,Singapore,Asia,1.35,103.8,Phishing,Energy,State-sponsored,Medium,21524,24.24,158
+710,2024-11-12,Russia,Europe/Asia,61.5,105.3,Zero-Day Exploit,Telecom,Cybercriminal Group,Medium,257990,588.94,705
+711,2023-03-10,Ukraine,Europe,48.4,31.2,Ransomware,Education,Hacktivist,Critical,4745383,387.06,447
+712,2024-01-18,Nigeria,Africa,9.1,8.7,Malware,Transport,Insider,Critical,9298,70.84,266
+713,2023-06-17,India,Asia,21.0,78.0,Ransomware,Government,Cybercriminal Group,Medium,3520138,346.89,652
+714,2023-03-20,Turkey,Asia/Europe,38.9,35.2,Phishing,Transport,State-sponsored,High,1538191,19.52,97
+715,2024-12-02,Australia,Oceania,-25.3,133.8,DDoS,Telecom,Cybercriminal Group,High,366035,29.2,705
+716,2024-06-14,Germany,Europe,51.0,10.0,Malware,Telecom,Cybercriminal Group,Low,254326,16.32,422
+717,2025-05-01,United Kingdom,Europe,54.0,-2.0,Supply Chain,Energy,Unknown,High,292996,50.33,629
+718,2025-02-13,Ukraine,Europe,48.4,31.2,Supply Chain,Finance,Cybercriminal Group,High,480364,1022.98,79
+719,2024-01-07,India,Asia,21.0,78.0,Ransomware,Healthcare,Unknown,Medium,4389257,28.34,351
+720,2025-05-27,India,Asia,21.0,78.0,Phishing,Healthcare,Hacktivist,Medium,2579895,9.09,129
+721,2025-03-04,China,Asia,35.0,103.0,Zero-Day Exploit,Retail,Insider,Low,22391,94.39,202
+722,2025-07-19,United States,North America,38.0,-97.0,Data Breach,Telecom,State-sponsored,High,2531388,56.1,684
+723,2025-07-11,United States,North America,38.0,-97.0,Ransomware,Energy,State-sponsored,Medium,2949878,119.13,30
+724,2023-06-14,United States,North America,38.0,-97.0,SQL Injection,Transport,Insider,High,321465,85.03,248
+725,2025-01-02,South Korea,Asia,35.9,127.8,Ransomware,Energy,Unknown,High,1441940,124.02,551
+726,2024-05-01,United States,North America,38.0,-97.0,Data Breach,Education,Hacktivist,Critical,1553947,486.93,451
+727,2024-06-10,Ukraine,Europe,48.4,31.2,Ransomware,Energy,Cybercriminal Group,High,2637374,420.68,127
+728,2024-07-24,Japan,Asia,36.2,138.2,Malware,Government,State-sponsored,Critical,258947,36.72,119
+729,2024-03-30,Germany,Europe,51.0,10.0,Phishing,Energy,Cybercriminal Group,Critical,2438639,59.95,439
+730,2024-01-12,India,Asia,21.0,78.0,Ransomware,Healthcare,State-sponsored,Critical,4125245,423.71,689
+731,2024-02-09,United States,North America,38.0,-97.0,Phishing,Defense,Hacktivist,Low,854307,8.11,173
+732,2024-02-18,United States,North America,38.0,-97.0,Zero-Day Exploit,Finance,Cybercriminal Group,Critical,222767,385.32,512
+733,2025-03-31,United Kingdom,Europe,54.0,-2.0,Data Breach,Defense,Cybercriminal Group,Critical,3393718,209.94,497
+734,2024-05-24,South Korea,Asia,35.9,127.8,DDoS,Energy,Hacktivist,Medium,70673,11.73,31
+735,2023-07-03,United States,North America,38.0,-97.0,Ransomware,Defense,Hacktivist,Low,2743704,105.5,157
+736,2025-02-24,United Kingdom,Europe,54.0,-2.0,Malware,Retail,Unknown,Critical,105970,108.34,301
+737,2024-07-07,Ukraine,Europe,48.4,31.2,Phishing,Transport,State-sponsored,High,266067,11.94,441
+738,2023-02-06,Nigeria,Africa,9.1,8.7,Ransomware,Government,State-sponsored,High,2543122,236.06,169
+739,2024-08-05,South Korea,Asia,35.9,127.8,Ransomware,Retail,Hacktivist,Critical,4525751,363.55,586
+740,2024-05-21,Japan,Asia,36.2,138.2,Malware,Defense,Hacktivist,Medium,185049,4.29,292
+741,2025-01-29,United Kingdom,Europe,54.0,-2.0,Ransomware,Government,Insider,High,2863667,41.66,390
+742,2023-09-08,United States,North America,38.0,-97.0,Phishing,Energy,Cybercriminal Group,Low,2619080,15.58,607
+743,2023-01-21,United States,North America,38.0,-97.0,Data Breach,Transport,Cybercriminal Group,High,3867388,91.83,674
+744,2024-04-25,South Africa,Africa,-30.6,22.9,Malware,Government,Unknown,Low,198143,63.49,585
+745,2023-07-30,Germany,Europe,51.0,10.0,Malware,Education,Cybercriminal Group,High,425537,17.2,684
+746,2024-10-12,United Kingdom,Europe,54.0,-2.0,Malware,Finance,Unknown,Medium,281031,27.98,220
+747,2024-10-01,United Kingdom,Europe,54.0,-2.0,Ransomware,Finance,Insider,Critical,4851236,498.19,98
+748,2023-08-03,Australia,Oceania,-25.3,133.8,Phishing,Education,Unknown,High,2533076,35.29,517
+749,2023-09-15,Singapore,Asia,1.35,103.8,Phishing,Transport,Cybercriminal Group,Medium,4594287,13.51,185
+750,2023-08-07,Nigeria,Africa,9.1,8.7,Malware,Retail,Cybercriminal Group,Medium,334557,22.84,546
+751,2023-03-03,Singapore,Asia,1.35,103.8,SQL Injection,Transport,State-sponsored,Critical,242576,82.03,152
+752,2025-05-30,Russia,Europe/Asia,61.5,105.3,Data Breach,Finance,Hacktivist,High,3460783,271.45,274
+753,2023-09-02,Singapore,Asia,1.35,103.8,Malware,Finance,State-sponsored,Medium,14624,31.39,252
+754,2025-07-16,Singapore,Asia,1.35,103.8,Phishing,Government,State-sponsored,Medium,2288673,20.44,140
+755,2025-05-22,United States,North America,38.0,-97.0,Data Breach,Government,Unknown,Medium,4076537,162.08,21
+756,2025-07-11,United States,North America,38.0,-97.0,SQL Injection,Defense,Unknown,High,352249,20.89,674
+757,2024-08-07,Nigeria,Africa,9.1,8.7,Phishing,Transport,Unknown,Medium,4379497,20.35,681
+758,2023-04-03,Singapore,Asia,1.35,103.8,Supply Chain,Energy,Hacktivist,High,405474,560.64,321
+759,2025-08-15,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Cybercriminal Group,Critical,56101,59.47,180
+760,2024-06-30,China,Asia,35.0,103.0,Phishing,Education,Hacktivist,Low,948588,26.28,325
+761,2025-08-17,Brazil,South America,-14.2,-51.9,Phishing,Healthcare,Cybercriminal Group,High,3085820,11.36,316
+762,2025-08-21,United States,North America,38.0,-97.0,Zero-Day Exploit,Government,Hacktivist,High,413659,871.79,688
+763,2025-04-11,Russia,Europe/Asia,61.5,105.3,Malware,Finance,Cybercriminal Group,High,124032,48.82,454
+764,2025-08-16,Germany,Europe,51.0,10.0,Supply Chain,Energy,Cybercriminal Group,High,450681,250.96,165
+765,2023-02-04,Turkey,Asia/Europe,38.9,35.2,Malware,Telecom,Unknown,High,431692,124.09,504
+766,2025-07-29,Japan,Asia,36.2,138.2,Phishing,Finance,Unknown,High,2190175,67.93,519
+767,2024-04-09,United States,North America,38.0,-97.0,Phishing,Government,Insider,Critical,1542319,44.57,646
+768,2023-11-18,Japan,Asia,36.2,138.2,Malware,Finance,State-sponsored,High,130964,2.52,529
+769,2024-12-03,Ukraine,Europe,48.4,31.2,Data Breach,Defense,Unknown,Critical,2680314,139.49,463
+770,2023-12-02,Japan,Asia,36.2,138.2,Data Breach,Telecom,State-sponsored,High,3478048,204.66,377
+771,2025-08-28,India,Asia,21.0,78.0,SQL Injection,Government,Unknown,Medium,339370,85.28,627
+772,2025-05-22,Canada,North America,56.1,-106.3,SQL Injection,Healthcare,State-sponsored,Medium,324112,35.12,440
+773,2023-05-01,Australia,Oceania,-25.3,133.8,DDoS,Government,Insider,Critical,228248,46.11,465
+774,2025-06-01,Singapore,Asia,1.35,103.8,Phishing,Telecom,Cybercriminal Group,Low,4146382,6.32,392
+775,2023-07-13,India,Asia,21.0,78.0,SQL Injection,Defense,State-sponsored,Critical,415579,37.2,150
+776,2024-01-14,United States,North America,38.0,-97.0,Zero-Day Exploit,Retail,State-sponsored,Critical,245929,187.78,137
+777,2024-12-26,Nigeria,Africa,9.1,8.7,Zero-Day Exploit,Defense,Insider,Critical,134436,177.82,75
+778,2023-12-29,United States,North America,38.0,-97.0,Ransomware,Government,State-sponsored,High,4233405,107.86,635
+779,2024-07-26,Germany,Europe,51.0,10.0,Zero-Day Exploit,Government,Hacktivist,Critical,136567,287.85,174
+780,2024-12-28,South Korea,Asia,35.9,127.8,Supply Chain,Transport,Cybercriminal Group,Low,136627,317.87,120
+781,2025-08-06,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Defense,Cybercriminal Group,Critical,459867,364.47,270
+782,2023-06-18,Canada,North America,56.1,-106.3,Data Breach,Education,Insider,High,4122111,103.36,155
+783,2023-06-02,Brazil,South America,-14.2,-51.9,Supply Chain,Government,Cybercriminal Group,Low,18902,391.08,482
+784,2024-01-01,Russia,Europe/Asia,61.5,105.3,Data Breach,Transport,Cybercriminal Group,Low,4136487,161.2,116
+785,2023-10-18,South Africa,Africa,-30.6,22.9,SQL Injection,Healthcare,Unknown,Medium,393282,3.01,521
+786,2025-09-21,Singapore,Asia,1.35,103.8,Malware,Government,Cybercriminal Group,Medium,299357,28.66,185
+787,2023-12-03,France,Europe,46.2,2.2,Ransomware,Government,Cybercriminal Group,Low,1024334,777.52,404
+788,2023-03-25,Germany,Europe,51.0,10.0,Supply Chain,Retail,Unknown,Medium,345888,85.99,492
+789,2023-02-14,Japan,Asia,36.2,138.2,Zero-Day Exploit,Retail,Cybercriminal Group,High,383640,128.44,583
+790,2023-02-26,India,Asia,21.0,78.0,SQL Injection,Finance,Cybercriminal Group,High,315874,48.69,391
+791,2025-05-22,United States,North America,38.0,-97.0,DDoS,Energy,State-sponsored,Low,408778,23.01,413
+792,2025-03-31,United Kingdom,Europe,54.0,-2.0,Data Breach,Defense,Insider,Medium,2602318,70.23,702
+793,2024-05-16,Canada,North America,56.1,-106.3,Phishing,Retail,Unknown,Medium,3997665,5.65,275
+794,2024-03-20,Brazil,South America,-14.2,-51.9,Phishing,Defense,State-sponsored,High,4307220,30.75,350
+795,2024-05-22,Mexico,North America,23.6,-102.6,Malware,Transport,Hacktivist,Medium,275182,93.48,86
+796,2023-05-11,United Kingdom,Europe,54.0,-2.0,Phishing,Telecom,Unknown,High,4389014,36.47,438
+797,2024-06-06,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,Cybercriminal Group,Medium,3898821,17.02,677
+798,2024-05-30,Ukraine,Europe,48.4,31.2,Data Breach,Government,State-sponsored,Low,3883910,201.12,184
+799,2023-11-01,Israel,Asia,31.0,34.9,SQL Injection,Education,Hacktivist,High,238650,5.58,687
+800,2023-03-22,Japan,Asia,36.2,138.2,Data Breach,Telecom,Unknown,Medium,892966,77.61,445
+801,2024-04-16,Brazil,South America,-14.2,-51.9,Ransomware,Defense,Unknown,High,4083924,45.6,311
+802,2024-11-22,Canada,North America,56.1,-106.3,Zero-Day Exploit,Defense,Unknown,Critical,46046,543.38,129
+803,2025-05-29,India,Asia,21.0,78.0,DDoS,Government,State-sponsored,Critical,340165,132.4,149
+804,2023-11-05,Ukraine,Europe,48.4,31.2,Phishing,Retail,State-sponsored,Medium,3539979,38.69,23
+805,2024-04-27,India,Asia,21.0,78.0,SQL Injection,Government,Unknown,Critical,306927,45.11,249
+806,2023-04-16,India,Asia,21.0,78.0,Malware,Defense,Unknown,Medium,445019,17.71,508
+807,2024-02-14,Israel,Asia,31.0,34.9,Malware,Retail,Cybercriminal Group,Low,380006,40.58,627
+808,2024-06-24,Indonesia,Asia,-0.8,113.9,SQL Injection,Government,Cybercriminal Group,Critical,165696,31.47,567
+809,2024-09-29,United States,North America,38.0,-97.0,SQL Injection,Education,Cybercriminal Group,Low,228810,26.78,22
+810,2023-08-13,India,Asia,21.0,78.0,Data Breach,Education,Unknown,Medium,3930788,172.2,135
+811,2024-11-20,Nigeria,Africa,9.1,8.7,Data Breach,Education,Unknown,Critical,1360170,145.77,637
+812,2023-07-24,China,Asia,35.0,103.0,Data Breach,Healthcare,Hacktivist,Medium,847441,43.87,426
+813,2023-01-19,Indonesia,Asia,-0.8,113.9,Phishing,Education,Unknown,Low,2996101,16.38,694
+814,2023-12-12,India,Asia,21.0,78.0,SQL Injection,Defense,State-sponsored,High,118950,16.2,124
+815,2025-02-27,Brazil,South America,-14.2,-51.9,Phishing,Transport,Cybercriminal Group,Critical,1269176,39.76,707
+816,2024-03-24,Nigeria,Africa,9.1,8.7,Malware,Retail,Unknown,Critical,396338,3.26,114
+817,2023-02-12,Mexico,North America,23.6,-102.6,Data Breach,Transport,State-sponsored,Critical,991353,65.77,211
+818,2024-05-25,Turkey,Asia/Europe,38.9,35.2,DDoS,Finance,State-sponsored,High,190802,26.91,343
+819,2023-01-07,Singapore,Asia,1.35,103.8,Ransomware,Energy,Unknown,Critical,3974376,116.91,350
+820,2024-01-05,United Kingdom,Europe,54.0,-2.0,DDoS,Energy,State-sponsored,Critical,395154,49.9,543
+821,2025-07-08,France,Europe,46.2,2.2,DDoS,Retail,Unknown,Critical,270714,65.13,699
+822,2024-06-13,Germany,Europe,51.0,10.0,Ransomware,Finance,State-sponsored,High,2641772,26.96,412
+823,2024-10-18,Mexico,North America,23.6,-102.6,DDoS,Healthcare,Unknown,High,30408,2.88,647
+824,2025-06-26,Mexico,North America,23.6,-102.6,Data Breach,Transport,Unknown,High,2632466,308.4,353
+825,2024-04-01,United States,North America,38.0,-97.0,Phishing,Energy,Unknown,High,3709971,13.23,715
+826,2023-03-28,Germany,Europe,51.0,10.0,Data Breach,Government,Cybercriminal Group,Critical,3272502,139.4,130
+827,2024-06-17,South Korea,Asia,35.9,127.8,Malware,Education,Insider,Medium,84000,27.16,24
+828,2023-11-08,United States,North America,38.0,-97.0,Data Breach,Defense,Unknown,Critical,927453,128.09,62
+829,2024-10-28,South Africa,Africa,-30.6,22.9,DDoS,Finance,Cybercriminal Group,Low,300220,12.92,6
+830,2025-07-04,Japan,Asia,36.2,138.2,Zero-Day Exploit,Transport,Unknown,High,122698,854.41,359
+831,2025-01-01,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Cybercriminal Group,High,129931,86.69,108
+832,2023-05-31,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Unknown,High,43063,58.31,95
+833,2024-11-24,United States,North America,38.0,-97.0,SQL Injection,Transport,Cybercriminal Group,Low,293160,30.15,532
+834,2024-03-26,Israel,Asia,31.0,34.9,SQL Injection,Retail,Insider,High,218687,72.61,167
+835,2024-06-09,India,Asia,21.0,78.0,Ransomware,Transport,State-sponsored,Critical,1784774,216.81,467
+836,2023-05-02,Japan,Asia,36.2,138.2,Data Breach,Defense,State-sponsored,Critical,3101311,331.26,586
+837,2023-11-07,United Kingdom,Europe,54.0,-2.0,Malware,Telecom,Cybercriminal Group,Critical,414918,11.77,147
+838,2023-08-09,India,Asia,21.0,78.0,Malware,Healthcare,Unknown,High,256368,7.21,3
+839,2023-11-14,India,Asia,21.0,78.0,Phishing,Retail,Unknown,High,3166069,35.08,487
+840,2024-04-16,South Africa,Africa,-30.6,22.9,SQL Injection,Retail,Hacktivist,Medium,78209,6.34,334
+841,2024-02-09,United States,North America,38.0,-97.0,Malware,Education,Cybercriminal Group,Medium,351605,45.16,454
+842,2024-10-07,Israel,Asia,31.0,34.9,Malware,Telecom,Cybercriminal Group,Low,64997,122.31,660
+843,2025-09-07,Brazil,South America,-14.2,-51.9,DDoS,Transport,State-sponsored,Critical,249574,77.1,515
+844,2023-10-09,Nigeria,Africa,9.1,8.7,Ransomware,Energy,Cybercriminal Group,Critical,4862640,281.62,455
+845,2025-06-01,United States,North America,38.0,-97.0,Malware,Government,Cybercriminal Group,Low,94738,37.72,425
+846,2023-04-12,United States,North America,38.0,-97.0,Malware,Transport,State-sponsored,Low,75615,8.76,188
+847,2023-03-02,Russia,Europe/Asia,61.5,105.3,Ransomware,Education,State-sponsored,High,491748,167.26,306
+848,2025-08-22,Germany,Europe,51.0,10.0,Phishing,Finance,State-sponsored,Medium,2011103,17.69,612
+849,2023-10-03,Australia,Oceania,-25.3,133.8,Phishing,Government,Cybercriminal Group,Critical,4640915,30.59,417
+850,2025-09-13,United States,North America,38.0,-97.0,Ransomware,Finance,Cybercriminal Group,Medium,4654223,97.23,668
+851,2024-05-27,Israel,Asia,31.0,34.9,Phishing,Energy,Insider,High,1195261,5.24,383
+852,2024-07-22,Brazil,South America,-14.2,-51.9,DDoS,Retail,State-sponsored,Critical,426159,23.39,476
+853,2025-08-13,Indonesia,Asia,-0.8,113.9,Malware,Retail,Cybercriminal Group,Low,131638,28.26,697
+854,2023-10-16,Germany,Europe,51.0,10.0,Phishing,Government,State-sponsored,Critical,4481265,39.04,577
+855,2023-10-14,United States,North America,38.0,-97.0,Ransomware,Defense,State-sponsored,Critical,4235739,213.15,326
+856,2023-09-09,Nigeria,Africa,9.1,8.7,Supply Chain,Education,Cybercriminal Group,High,241167,780.45,614
+857,2023-01-05,United Kingdom,Europe,54.0,-2.0,Supply Chain,Government,Hacktivist,High,216716,30.57,570
+858,2025-06-16,Nigeria,Africa,9.1,8.7,Data Breach,Finance,Cybercriminal Group,Low,3735413,405.64,689
+859,2023-07-01,India,Asia,21.0,78.0,Zero-Day Exploit,Government,State-sponsored,High,194338,423.26,198
+860,2024-12-27,Japan,Asia,36.2,138.2,DDoS,Education,State-sponsored,High,428066,6.48,629
+861,2023-02-07,Canada,North America,56.1,-106.3,Data Breach,Telecom,Cybercriminal Group,Critical,1754943,89.08,8
+862,2024-05-20,India,Asia,21.0,78.0,SQL Injection,Healthcare,Cybercriminal Group,Medium,346045,25.58,580
+863,2023-03-08,Ukraine,Europe,48.4,31.2,Malware,Healthcare,Cybercriminal Group,Low,298893,23.38,234
+864,2025-09-20,Nigeria,Africa,9.1,8.7,Data Breach,Transport,Hacktivist,Low,4699593,213.8,465
+865,2025-08-19,United States,North America,38.0,-97.0,Phishing,Education,Cybercriminal Group,Low,3414122,55.16,281
+866,2025-06-24,India,Asia,21.0,78.0,Malware,Energy,State-sponsored,Critical,481601,55.06,431
+867,2024-08-08,South Korea,Asia,35.9,127.8,Phishing,Government,Unknown,Low,1893704,16.89,707
+868,2023-03-06,France,Europe,46.2,2.2,Ransomware,Finance,State-sponsored,High,3624450,84.0,25
+869,2024-04-29,Australia,Oceania,-25.3,133.8,Malware,Energy,Unknown,Medium,436578,26.06,56
+870,2024-09-26,Singapore,Asia,1.35,103.8,Malware,Retail,Insider,High,327962,5.89,458
+871,2025-06-30,Australia,Oceania,-25.3,133.8,Ransomware,Finance,Insider,Medium,521112,14.74,453
+872,2024-07-26,United States,North America,38.0,-97.0,Malware,Government,Cybercriminal Group,High,200092,9.75,412
+873,2024-09-30,United States,North America,38.0,-97.0,Data Breach,Government,Cybercriminal Group,Critical,3895068,139.64,439
+874,2024-04-09,Nigeria,Africa,9.1,8.7,Malware,Transport,Cybercriminal Group,Critical,101015,52.83,111
+875,2023-05-10,United States,North America,38.0,-97.0,Malware,Transport,Cybercriminal Group,Critical,220828,5.07,493
+876,2023-11-16,Ukraine,Europe,48.4,31.2,Phishing,Defense,Cybercriminal Group,Low,3001971,3.37,319
+877,2023-12-18,Australia,Oceania,-25.3,133.8,Malware,Telecom,Cybercriminal Group,Medium,4337,13.61,531
+878,2024-07-26,Australia,Oceania,-25.3,133.8,Malware,Government,Cybercriminal Group,High,102549,11.67,206
+879,2024-12-12,Ukraine,Europe,48.4,31.2,DDoS,Retail,Hacktivist,High,173715,6.08,593
+880,2024-04-10,Brazil,South America,-14.2,-51.9,Phishing,Government,Cybercriminal Group,Low,32013,13.39,655
+881,2025-02-25,China,Asia,35.0,103.0,DDoS,Education,Unknown,High,197186,31.08,211
+882,2023-01-31,Germany,Europe,51.0,10.0,SQL Injection,Transport,State-sponsored,Low,152445,1.02,451
+883,2023-07-23,India,Asia,21.0,78.0,Malware,Energy,Cybercriminal Group,Critical,114890,16.36,269
+884,2023-06-30,Ukraine,Europe,48.4,31.2,Phishing,Telecom,Unknown,Low,177108,13.84,694
+885,2023-11-09,India,Asia,21.0,78.0,Malware,Retail,Cybercriminal Group,Critical,424504,62.41,382
+886,2025-06-18,Ukraine,Europe,48.4,31.2,Supply Chain,Finance,State-sponsored,Critical,462901,880.25,134
+887,2024-03-15,Israel,Asia,31.0,34.9,DDoS,Energy,Unknown,High,400174,33.36,631
+888,2023-02-24,Australia,Oceania,-25.3,133.8,SQL Injection,Telecom,Unknown,Medium,446532,11.86,521
+889,2025-03-20,Mexico,North America,23.6,-102.6,SQL Injection,Finance,State-sponsored,High,203584,4.48,661
+890,2024-01-18,Israel,Asia,31.0,34.9,Phishing,Transport,Hacktivist,Medium,4151616,13.03,486
+891,2023-08-01,Russia,Europe/Asia,61.5,105.3,Phishing,Energy,Unknown,High,3793322,55.51,241
+892,2025-05-12,Germany,Europe,51.0,10.0,Phishing,Education,Cybercriminal Group,Medium,712009,53.66,138
+893,2024-04-21,Israel,Asia,31.0,34.9,Phishing,Transport,Hacktivist,Medium,3575405,13.03,462
+894,2023-01-26,Japan,Asia,36.2,138.2,Phishing,Healthcare,Cybercriminal Group,Medium,2229222,32.57,661
+895,2024-10-21,United States,North America,38.0,-97.0,SQL Injection,Finance,Unknown,Medium,485908,29.68,234
+896,2024-11-22,United States,North America,38.0,-97.0,Ransomware,Education,Cybercriminal Group,Medium,2303375,23.03,196
+897,2025-07-23,Ukraine,Europe,48.4,31.2,Zero-Day Exploit,Telecom,State-sponsored,Critical,157110,1397.86,289
+898,2025-02-14,Singapore,Asia,1.35,103.8,Data Breach,Government,Cybercriminal Group,Critical,4301394,150.28,153
+899,2024-06-12,Nigeria,Africa,9.1,8.7,DDoS,Transport,Insider,High,378903,35.55,473
+900,2024-12-15,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,State-sponsored,Critical,3775638,425.98,572
+901,2023-01-10,United States,North America,38.0,-97.0,DDoS,Retail,Unknown,Critical,437512,70.53,364
+902,2024-12-08,United Kingdom,Europe,54.0,-2.0,Phishing,Transport,Cybercriminal Group,High,4924736,28.06,24
+903,2025-03-29,Brazil,South America,-14.2,-51.9,Ransomware,Defense,Unknown,High,1713992,86.78,401
+904,2024-04-07,United States,North America,38.0,-97.0,Phishing,Telecom,State-sponsored,Medium,876042,20.04,692
+905,2023-07-23,Brazil,South America,-14.2,-51.9,Ransomware,Finance,Unknown,Low,3238114,350.73,291
+906,2024-06-14,China,Asia,35.0,103.0,Phishing,Government,State-sponsored,Low,3447553,21.93,401
+907,2024-02-03,India,Asia,21.0,78.0,Ransomware,Energy,State-sponsored,Critical,1726343,277.5,318
+908,2023-11-14,France,Europe,46.2,2.2,Data Breach,Energy,Cybercriminal Group,High,3851005,261.08,283
+909,2023-09-10,India,Asia,21.0,78.0,Zero-Day Exploit,Transport,Cybercriminal Group,High,298539,328.64,503
+910,2025-07-29,Japan,Asia,36.2,138.2,Malware,Retail,Cybercriminal Group,High,441885,52.66,305
+911,2025-07-10,Germany,Europe,51.0,10.0,SQL Injection,Defense,Cybercriminal Group,Medium,477638,51.44,675
+912,2025-06-10,India,Asia,21.0,78.0,Malware,Healthcare,Cybercriminal Group,Medium,329396,8.99,551
+913,2025-07-19,United Kingdom,Europe,54.0,-2.0,Supply Chain,Retail,Cybercriminal Group,Critical,399534,852.75,567
+914,2023-11-30,India,Asia,21.0,78.0,Phishing,Defense,Cybercriminal Group,Critical,2121360,46.06,213
+915,2024-04-17,South Korea,Asia,35.9,127.8,Phishing,Defense,Cybercriminal Group,High,3350922,9.56,200
+916,2025-02-05,Germany,Europe,51.0,10.0,Ransomware,Retail,Cybercriminal Group,High,573414,45.03,85
+917,2023-10-13,Brazil,South America,-14.2,-51.9,DDoS,Healthcare,State-sponsored,High,9571,45.75,622
+918,2024-11-18,United States,North America,38.0,-97.0,Phishing,Government,Hacktivist,Low,1288621,22.32,452
+919,2024-03-28,Germany,Europe,51.0,10.0,DDoS,Government,Unknown,Medium,425565,15.17,536
+920,2024-03-30,Ukraine,Europe,48.4,31.2,Data Breach,Government,Hacktivist,High,409229,315.5,387
+921,2023-01-17,Israel,Asia,31.0,34.9,Supply Chain,Defense,State-sponsored,Medium,7733,144.25,346
+922,2025-04-30,Singapore,Asia,1.35,103.8,Malware,Healthcare,Insider,High,23175,2.45,426
+923,2023-08-01,South Korea,Asia,35.9,127.8,Data Breach,Transport,Cybercriminal Group,Medium,3590320,246.2,124
+924,2023-11-20,China,Asia,35.0,103.0,Ransomware,Government,Cybercriminal Group,High,3849491,52.56,226
+925,2025-06-25,United States,North America,38.0,-97.0,Data Breach,Energy,Cybercriminal Group,Low,4191747,232.73,105
+926,2025-09-09,Ukraine,Europe,48.4,31.2,Data Breach,Finance,Hacktivist,Medium,3260523,485.92,695
+927,2025-06-24,Turkey,Asia/Europe,38.9,35.2,Data Breach,Education,Unknown,High,4045402,35.72,70
+928,2025-01-29,United Kingdom,Europe,54.0,-2.0,Malware,Energy,Cybercriminal Group,High,369528,42.61,14
+929,2024-03-14,China,Asia,35.0,103.0,Malware,Energy,Hacktivist,Medium,31516,63.19,141
+930,2023-09-01,Germany,Europe,51.0,10.0,Phishing,Retail,Insider,High,2758250,4.66,138
+931,2024-02-29,United Kingdom,Europe,54.0,-2.0,Malware,Telecom,Insider,Critical,120167,81.29,340
+932,2025-03-31,Germany,Europe,51.0,10.0,DDoS,Energy,Hacktivist,Critical,200108,18.11,534
+933,2023-07-17,United Kingdom,Europe,54.0,-2.0,Phishing,Government,Hacktivist,Low,1188256,2.23,210
+934,2023-03-22,India,Asia,21.0,78.0,DDoS,Defense,Insider,Medium,163396,27.7,169
+935,2024-08-13,Ukraine,Europe,48.4,31.2,DDoS,Retail,Unknown,Medium,105692,10.94,279
+936,2023-06-21,South Africa,Africa,-30.6,22.9,Phishing,Retail,Cybercriminal Group,High,4239701,38.14,625
+937,2024-01-26,Israel,Asia,31.0,34.9,Data Breach,Defense,Unknown,Low,2519524,289.57,610
+938,2024-04-09,Brazil,South America,-14.2,-51.9,Malware,Telecom,Cybercriminal Group,Medium,317831,15.6,493
+939,2023-01-05,United States,North America,38.0,-97.0,DDoS,Government,Unknown,Critical,383023,24.12,384
+940,2024-05-16,South Korea,Asia,35.9,127.8,Supply Chain,Telecom,Hacktivist,High,308543,1131.33,73
+941,2023-06-16,Germany,Europe,51.0,10.0,Ransomware,Energy,Insider,Critical,2142262,462.37,357
+942,2024-01-30,South Korea,Asia,35.9,127.8,Phishing,Defense,Insider,Low,2034003,56.33,490
+943,2024-11-12,United States,North America,38.0,-97.0,Data Breach,Healthcare,Cybercriminal Group,Low,3821765,452.74,698
+944,2023-01-13,India,Asia,21.0,78.0,DDoS,Finance,Insider,Critical,337949,96.75,394
+945,2025-06-16,Germany,Europe,51.0,10.0,Malware,Defense,State-sponsored,Critical,223903,95.2,259
+946,2025-01-21,Ukraine,Europe,48.4,31.2,Malware,Defense,Insider,High,484710,39.19,92
+947,2023-08-03,United States,North America,38.0,-97.0,Malware,Defense,Hacktivist,Medium,3466,33.98,173
+948,2024-03-02,Singapore,Asia,1.35,103.8,Ransomware,Telecom,Insider,High,1432383,107.05,181
+949,2023-04-23,Germany,Europe,51.0,10.0,Data Breach,Retail,Cybercriminal Group,High,1784194,48.8,191
+950,2025-07-12,India,Asia,21.0,78.0,Data Breach,Defense,Cybercriminal Group,Medium,916997,171.64,652
+951,2023-01-31,India,Asia,21.0,78.0,Phishing,Energy,Cybercriminal Group,Low,846648,16.35,10
+952,2023-02-12,United States,North America,38.0,-97.0,Data Breach,Finance,State-sponsored,High,61917,26.13,385
+953,2023-12-12,Canada,North America,56.1,-106.3,Zero-Day Exploit,Defense,Cybercriminal Group,High,357591,540.11,352
+954,2024-09-17,Mexico,North America,23.6,-102.6,Data Breach,Government,Unknown,High,2771381,660.46,103
+955,2023-05-06,United States,North America,38.0,-97.0,SQL Injection,Transport,Cybercriminal Group,Low,366716,15.54,255
+956,2024-11-07,Germany,Europe,51.0,10.0,Malware,Energy,State-sponsored,High,334634,47.49,330
+957,2024-03-30,United States,North America,38.0,-97.0,Phishing,Energy,Hacktivist,Medium,3357828,7.48,628
+958,2025-05-27,Israel,Asia,31.0,34.9,Phishing,Finance,Insider,Critical,2466101,37.69,622
+959,2025-01-03,India,Asia,21.0,78.0,DDoS,Transport,State-sponsored,Critical,261156,66.01,90
+960,2024-04-01,United Kingdom,Europe,54.0,-2.0,Malware,Finance,Cybercriminal Group,Medium,283565,40.22,247
+961,2024-03-21,Russia,Europe/Asia,61.5,105.3,DDoS,Government,State-sponsored,Low,487146,151.63,335
+962,2025-09-01,Turkey,Asia/Europe,38.9,35.2,Data Breach,Finance,Hacktivist,High,4485074,88.83,649
+963,2025-02-23,Ukraine,Europe,48.4,31.2,Ransomware,Finance,Hacktivist,Critical,3163591,211.23,391
+964,2023-08-17,Ukraine,Europe,48.4,31.2,Data Breach,Telecom,State-sponsored,Critical,736516,338.69,115
+965,2024-08-09,United States,North America,38.0,-97.0,Data Breach,Education,State-sponsored,Critical,2629757,657.93,390
+966,2024-02-02,Australia,Oceania,-25.3,133.8,Ransomware,Defense,Cybercriminal Group,Medium,3063041,74.56,696
+967,2024-02-09,Indonesia,Asia,-0.8,113.9,Ransomware,Government,Cybercriminal Group,Medium,3864816,507.89,324
+968,2023-05-31,India,Asia,21.0,78.0,Supply Chain,Telecom,State-sponsored,High,348935,506.4,720
+969,2025-05-18,United States,North America,38.0,-97.0,Phishing,Retail,Hacktivist,Medium,1810465,42.18,507
+970,2025-01-03,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Energy,Unknown,Medium,490011,69.4,231
+971,2025-01-14,Ukraine,Europe,48.4,31.2,Ransomware,Defense,Cybercriminal Group,Critical,1336409,261.24,23
+972,2024-02-05,Brazil,South America,-14.2,-51.9,Phishing,Finance,Cybercriminal Group,High,2375310,27.76,290
+973,2023-11-28,Ukraine,Europe,48.4,31.2,DDoS,Government,Unknown,Low,372128,69.22,312
+974,2025-07-07,Japan,Asia,36.2,138.2,DDoS,Healthcare,State-sponsored,High,421815,30.63,201
+975,2025-03-15,Israel,Asia,31.0,34.9,Ransomware,Healthcare,Cybercriminal Group,Medium,3583867,552.69,696
+976,2023-02-23,South Africa,Africa,-30.6,22.9,Supply Chain,Finance,Unknown,Medium,340938,80.23,347
+977,2023-05-02,Australia,Oceania,-25.3,133.8,Zero-Day Exploit,Energy,Cybercriminal Group,Medium,158796,450.07,705
+978,2024-11-17,Australia,Oceania,-25.3,133.8,DDoS,Finance,Insider,Critical,453554,121.78,666
+979,2023-03-26,Germany,Europe,51.0,10.0,Malware,Finance,Cybercriminal Group,Low,350739,10.01,522
+980,2025-02-02,China,Asia,35.0,103.0,Malware,Finance,Unknown,Medium,95046,69.17,394
+981,2023-11-30,Japan,Asia,36.2,138.2,Malware,Finance,Hacktivist,Medium,452146,48.93,551
+982,2025-03-13,India,Asia,21.0,78.0,Data Breach,Transport,Cybercriminal Group,Critical,4353858,32.42,599
+983,2025-07-08,Brazil,South America,-14.2,-51.9,SQL Injection,Finance,State-sponsored,Critical,314202,24.09,712
+984,2024-08-11,India,Asia,21.0,78.0,Malware,Energy,Hacktivist,Low,46143,17.05,576
+985,2024-01-08,Russia,Europe/Asia,61.5,105.3,Data Breach,Transport,State-sponsored,Medium,1717,13.0,255
+986,2024-03-31,United Kingdom,Europe,54.0,-2.0,Supply Chain,Healthcare,Hacktivist,High,364533,323.68,321
+987,2024-12-05,South Korea,Asia,35.9,127.8,Zero-Day Exploit,Finance,Hacktivist,High,23554,398.88,243
+988,2024-09-08,United States,North America,38.0,-97.0,DDoS,Transport,Cybercriminal Group,Critical,188353,41.52,285
+989,2024-10-27,India,Asia,21.0,78.0,Malware,Healthcare,Cybercriminal Group,Medium,43749,8.91,261
+990,2025-01-20,Ukraine,Europe,48.4,31.2,Supply Chain,Telecom,Unknown,Low,365425,64.42,662
+991,2024-03-05,India,Asia,21.0,78.0,Phishing,Healthcare,Cybercriminal Group,High,3638528,40.47,389
+992,2024-12-01,United States,North America,38.0,-97.0,Malware,Transport,Cybercriminal Group,Medium,172778,2.73,656
+993,2023-08-20,United States,North America,38.0,-97.0,Supply Chain,Telecom,State-sponsored,Critical,197838,283.43,228
+994,2025-06-15,Germany,Europe,51.0,10.0,Ransomware,Telecom,Hacktivist,High,4108218,278.58,98
+995,2023-04-12,South Korea,Asia,35.9,127.8,Data Breach,Government,State-sponsored,Medium,3268894,457.36,186
+996,2025-06-22,Germany,Europe,51.0,10.0,Data Breach,Defense,Cybercriminal Group,High,1071153,508.92,266
+997,2024-08-04,United States,North America,38.0,-97.0,Malware,Telecom,State-sponsored,Low,380428,8.56,655
+998,2024-04-13,Mexico,North America,23.6,-102.6,Data Breach,Healthcare,Cybercriminal Group,High,2970579,147.68,480
+999,2025-04-13,South Korea,Asia,35.9,127.8,Phishing,Energy,Cybercriminal Group,Critical,730324,36.51,313
+1000,2023-09-03,Germany,Europe,51.0,10.0,Phishing,Finance,State-sponsored,Low,482602,1.63,87
+1001,2024-03-10,Israel,Asia,31.0,34.9,Malware,Transport,Unknown,Critical,71627,10.96,492
+1002,2024-02-20,South Korea,Asia,35.9,127.8,Data Breach,Government,Hacktivist,High,62155,362.58,436
+1003,2025-07-31,Ukraine,Europe,48.4,31.2,Data Breach,Transport,Hacktivist,High,356307,193.63,622
+1004,2023-06-29,Japan,Asia,36.2,138.2,DDoS,Finance,Cybercriminal Group,Critical,69997,112.15,527
+1005,2023-04-26,Germany,Europe,51.0,10.0,Ransomware,Education,Unknown,High,2096182,154.71,553
+1006,2023-08-07,South Africa,Africa,-30.6,22.9,SQL Injection,Government,Insider,Medium,298337,19.53,404
+1007,2025-07-03,China,Asia,35.0,103.0,Phishing,Government,Unknown,High,4096875,74.92,59
+1008,2023-12-25,Germany,Europe,51.0,10.0,Malware,Healthcare,Cybercriminal Group,Low,4747,25.68,104
+1009,2025-07-24,France,Europe,46.2,2.2,DDoS,Retail,State-sponsored,Medium,403512,26.81,673
+1010,2023-07-06,Russia,Europe/Asia,61.5,105.3,Phishing,Transport,Unknown,Medium,912799,16.22,450
+1011,2024-01-03,Ukraine,Europe,48.4,31.2,Phishing,Energy,State-sponsored,Medium,2390912,14.63,42
+1012,2023-07-23,India,Asia,21.0,78.0,Phishing,Retail,Unknown,Low,2230688,4.38,122
+1013,2025-02-08,France,Europe,46.2,2.2,Malware,Defense,Cybercriminal Group,Medium,484312,113.58,399
+1014,2024-05-27,India,Asia,21.0,78.0,Zero-Day Exploit,Government,Insider,Medium,124096,336.67,54
+1015,2024-05-06,Ukraine,Europe,48.4,31.2,Phishing,Telecom,Cybercriminal Group,Low,694023,78.21,440
+1016,2023-04-28,Russia,Europe/Asia,61.5,105.3,DDoS,Telecom,Unknown,Medium,129784,26.01,683
+1017,2024-05-29,Singapore,Asia,1.35,103.8,DDoS,Healthcare,State-sponsored,High,448299,17.4,606
+1018,2023-07-16,Canada,North America,56.1,-106.3,DDoS,Healthcare,Cybercriminal Group,Low,323306,14.03,205
+1019,2023-08-25,United States,North America,38.0,-97.0,Ransomware,Energy,Cybercriminal Group,Critical,4020781,215.5,63
+1020,2025-08-23,South Korea,Asia,35.9,127.8,Malware,Education,Hacktivist,Medium,129582,24.08,328
+1021,2023-08-06,Nigeria,Africa,9.1,8.7,DDoS,Telecom,Cybercriminal Group,High,476406,10.08,622
+1022,2023-04-25,United States,North America,38.0,-97.0,DDoS,Finance,Hacktivist,High,358168,76.12,566
+1023,2024-08-26,Israel,Asia,31.0,34.9,Ransomware,Transport,Hacktivist,Critical,1999604,193.07,666
+1024,2025-01-30,United Kingdom,Europe,54.0,-2.0,Malware,Finance,State-sponsored,Low,478343,2.93,671
+1025,2024-07-13,Singapore,Asia,1.35,103.8,DDoS,Education,Cybercriminal Group,Low,248716,11.53,207
+1026,2023-09-16,South Korea,Asia,35.9,127.8,DDoS,Transport,Unknown,Medium,469292,14.59,375
+1027,2024-06-20,Japan,Asia,36.2,138.2,Data Breach,Transport,Unknown,High,1401353,96.04,614
+1028,2025-09-22,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Energy,Insider,Low,208501,336.1,507
+1029,2024-06-05,Ukraine,Europe,48.4,31.2,SQL Injection,Defense,Cybercriminal Group,High,204701,35.03,411
+1030,2024-12-14,Canada,North America,56.1,-106.3,DDoS,Government,Unknown,Medium,414626,7.91,526
+1031,2023-10-31,Japan,Asia,36.2,138.2,Data Breach,Telecom,Cybercriminal Group,Critical,1436367,190.9,230
+1032,2023-10-12,United States,North America,38.0,-97.0,DDoS,Healthcare,Cybercriminal Group,Critical,414613,4.76,53
+1033,2024-10-26,Ukraine,Europe,48.4,31.2,DDoS,Education,Hacktivist,Medium,193620,100.13,333
+1034,2025-07-08,United States,North America,38.0,-97.0,Data Breach,Telecom,Cybercriminal Group,Medium,481360,398.01,641
+1035,2025-09-21,Singapore,Asia,1.35,103.8,SQL Injection,Government,Cybercriminal Group,Low,455172,15.5,598
+1036,2024-10-03,United States,North America,38.0,-97.0,Data Breach,Transport,State-sponsored,Medium,3710315,285.93,226
+1037,2023-08-26,United Kingdom,Europe,54.0,-2.0,DDoS,Defense,Cybercriminal Group,Medium,473095,52.24,491
+1038,2024-05-17,United States,North America,38.0,-97.0,DDoS,Healthcare,Hacktivist,Low,11134,11.33,318
+1039,2023-05-27,India,Asia,21.0,78.0,DDoS,Finance,Cybercriminal Group,Medium,238663,51.85,661
+1040,2023-01-13,Mexico,North America,23.6,-102.6,Ransomware,Finance,Cybercriminal Group,Critical,174777,545.71,113
+1041,2025-02-27,Singapore,Asia,1.35,103.8,Data Breach,Finance,Cybercriminal Group,Medium,114220,69.27,10
+1042,2023-03-29,Indonesia,Asia,-0.8,113.9,Ransomware,Energy,State-sponsored,Critical,4722538,373.34,455
+1043,2024-12-09,Singapore,Asia,1.35,103.8,Phishing,Telecom,Hacktivist,Low,1033432,12.12,22
+1044,2024-03-01,Singapore,Asia,1.35,103.8,Ransomware,Healthcare,State-sponsored,Critical,1882671,243.65,25
+1045,2025-06-19,China,Asia,35.0,103.0,Phishing,Defense,Hacktivist,Medium,943952,15.43,504
+1046,2024-09-22,India,Asia,21.0,78.0,Ransomware,Education,State-sponsored,High,712390,68.83,45
+1047,2024-03-11,Canada,North America,56.1,-106.3,DDoS,Healthcare,Unknown,Medium,360370,67.18,309
+1048,2024-11-08,Canada,North America,56.1,-106.3,Phishing,Education,Unknown,Critical,641633,35.27,3
+1049,2024-02-04,South Africa,Africa,-30.6,22.9,Zero-Day Exploit,Retail,Insider,High,411952,330.67,490
+1050,2023-04-03,Singapore,Asia,1.35,103.8,Ransomware,Education,Unknown,Medium,1526655,450.36,395
+1051,2024-10-13,Germany,Europe,51.0,10.0,Phishing,Education,State-sponsored,High,2063826,20.29,393
+1052,2023-08-24,France,Europe,46.2,2.2,Phishing,Defense,State-sponsored,High,3539656,33.42,540
+1053,2024-01-06,Australia,Oceania,-25.3,133.8,Data Breach,Government,State-sponsored,Low,144903,531.35,372
+1054,2024-01-05,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Healthcare,Cybercriminal Group,Critical,75670,194.1,565
+1055,2023-05-22,Mexico,North America,23.6,-102.6,Supply Chain,Finance,Unknown,Low,369179,98.66,147
+1056,2023-04-19,Germany,Europe,51.0,10.0,Ransomware,Finance,Cybercriminal Group,Low,4983209,483.16,162
+1057,2025-05-01,United States,North America,38.0,-97.0,Phishing,Defense,State-sponsored,Low,1531287,1.5,482
+1058,2025-01-09,Israel,Asia,31.0,34.9,Data Breach,Education,Cybercriminal Group,High,111808,249.02,294
+1059,2024-05-30,United States,North America,38.0,-97.0,Ransomware,Healthcare,State-sponsored,Critical,3554588,492.57,697
+1060,2024-05-28,Indonesia,Asia,-0.8,113.9,Phishing,Telecom,Hacktivist,Critical,3555003,29.03,161
+1061,2024-02-15,Russia,Europe/Asia,61.5,105.3,Ransomware,Government,Cybercriminal Group,Critical,1541935,120.74,573
+1062,2024-10-19,Canada,North America,56.1,-106.3,Ransomware,Defense,Unknown,High,1383646,352.36,56
+1063,2024-01-07,Singapore,Asia,1.35,103.8,Malware,Education,State-sponsored,Low,148057,5.06,167
+1064,2023-07-26,Brazil,South America,-14.2,-51.9,Ransomware,Government,Cybercriminal Group,Medium,714361,306.61,584
+1065,2023-04-06,Brazil,South America,-14.2,-51.9,Malware,Telecom,State-sponsored,Low,187086,16.85,290
+1066,2025-09-24,Indonesia,Asia,-0.8,113.9,Malware,Healthcare,Hacktivist,High,51155,24.76,340
+1067,2025-03-26,Germany,Europe,51.0,10.0,Data Breach,Defense,Cybercriminal Group,Low,314803,29.3,298
+1068,2025-01-05,India,Asia,21.0,78.0,Data Breach,Energy,Unknown,Low,1182641,82.76,165
+1069,2025-08-10,Mexico,North America,23.6,-102.6,Malware,Education,Cybercriminal Group,High,68885,104.24,348
+1070,2025-03-03,United Kingdom,Europe,54.0,-2.0,Malware,Defense,Cybercriminal Group,High,320118,19.81,622
+1071,2023-01-16,United States,North America,38.0,-97.0,DDoS,Healthcare,Insider,Low,162389,52.08,561
+1072,2023-11-18,Nigeria,Africa,9.1,8.7,Data Breach,Healthcare,Unknown,Low,1355529,314.87,70
+1073,2024-04-16,United Kingdom,Europe,54.0,-2.0,Phishing,Telecom,Unknown,High,2148704,3.23,453
+1074,2024-01-08,Ukraine,Europe,48.4,31.2,DDoS,Telecom,Cybercriminal Group,Medium,449415,21.45,635
+1075,2024-01-18,Turkey,Asia/Europe,38.9,35.2,Ransomware,Finance,Hacktivist,Critical,4245152,294.05,461
+1076,2023-02-28,Russia,Europe/Asia,61.5,105.3,SQL Injection,Energy,Hacktivist,Critical,294120,62.86,9
+1077,2023-03-16,India,Asia,21.0,78.0,Ransomware,Energy,Cybercriminal Group,High,3878873,300.59,686
+1078,2023-07-04,United States,North America,38.0,-97.0,Phishing,Finance,Unknown,Low,3330814,26.41,444
+1079,2024-12-20,India,Asia,21.0,78.0,Phishing,Retail,State-sponsored,Medium,3814282,21.09,40
+1080,2023-02-02,Brazil,South America,-14.2,-51.9,Supply Chain,Defense,State-sponsored,High,424004,65.2,371
+1081,2025-09-02,Israel,Asia,31.0,34.9,Zero-Day Exploit,Defense,Cybercriminal Group,Critical,333383,103.8,181
+1082,2024-04-07,United States,North America,38.0,-97.0,Ransomware,Defense,Cybercriminal Group,Critical,2177401,214.43,189
+1083,2023-11-01,South Africa,Africa,-30.6,22.9,Ransomware,Healthcare,State-sponsored,Critical,3516674,452.79,494
+1084,2025-07-23,Japan,Asia,36.2,138.2,Data Breach,Defense,Unknown,High,4706241,137.66,612
+1085,2025-04-23,India,Asia,21.0,78.0,Data Breach,Education,State-sponsored,High,3848511,125.28,152
+1086,2024-06-17,South Korea,Asia,35.9,127.8,Phishing,Government,Unknown,High,1055592,64.19,650
+1087,2023-07-12,Japan,Asia,36.2,138.2,Zero-Day Exploit,Defense,Hacktivist,Critical,406100,57.17,171
+1088,2024-08-13,Australia,Oceania,-25.3,133.8,DDoS,Government,Cybercriminal Group,Critical,190833,12.44,17
+1089,2024-10-26,United Kingdom,Europe,54.0,-2.0,Phishing,Retail,Cybercriminal Group,High,2951516,9.94,361
+1090,2023-06-30,Singapore,Asia,1.35,103.8,Phishing,Retail,Cybercriminal Group,Medium,1484904,39.01,567
+1091,2024-03-23,Australia,Oceania,-25.3,133.8,Malware,Telecom,Hacktivist,High,491830,58.37,102
+1092,2025-08-12,Mexico,North America,23.6,-102.6,Data Breach,Defense,State-sponsored,Low,4570557,99.55,103
+1093,2024-03-06,Canada,North America,56.1,-106.3,Malware,Energy,Cybercriminal Group,Medium,238456,114.37,565
+1094,2025-03-23,Germany,Europe,51.0,10.0,DDoS,Retail,Cybercriminal Group,Medium,430235,12.07,661
+1095,2024-06-03,Ukraine,Europe,48.4,31.2,Data Breach,Telecom,Cybercriminal Group,High,2219779,17.55,315
+1096,2025-07-19,South Africa,Africa,-30.6,22.9,Data Breach,Defense,State-sponsored,Low,221174,92.36,158
+1097,2023-12-10,Israel,Asia,31.0,34.9,SQL Injection,Healthcare,Unknown,High,225554,65.16,248
+1098,2025-03-31,Brazil,South America,-14.2,-51.9,Phishing,Defense,State-sponsored,High,3276010,25.42,178
+1099,2025-03-31,Germany,Europe,51.0,10.0,Phishing,Healthcare,Cybercriminal Group,Low,4840671,4.81,402
+1100,2023-11-27,South Africa,Africa,-30.6,22.9,Malware,Energy,State-sponsored,Medium,13542,31.76,448
+1101,2025-07-31,United States,North America,38.0,-97.0,Data Breach,Finance,Hacktivist,Critical,213146,99.41,134
+1102,2025-07-08,Mexico,North America,23.6,-102.6,Malware,Energy,Cybercriminal Group,Medium,280812,33.19,252
+1103,2023-10-09,Ukraine,Europe,48.4,31.2,Data Breach,Finance,Unknown,High,195119,141.67,654
+1104,2023-05-26,Mexico,North America,23.6,-102.6,SQL Injection,Telecom,Cybercriminal Group,Low,94800,13.98,96
+1105,2024-05-17,United States,North America,38.0,-97.0,SQL Injection,Government,Cybercriminal Group,High,255175,33.01,641
+1106,2024-04-06,United States,North America,38.0,-97.0,Data Breach,Healthcare,State-sponsored,High,86062,140.71,183
+1107,2023-12-22,Ukraine,Europe,48.4,31.2,Malware,Retail,Unknown,Critical,314669,18.13,560
+1108,2023-01-31,United States,North America,38.0,-97.0,Malware,Transport,State-sponsored,Low,268401,6.24,157
+1109,2023-08-14,China,Asia,35.0,103.0,Phishing,Finance,Insider,Medium,1062832,10.84,275
+1110,2023-10-29,United Kingdom,Europe,54.0,-2.0,DDoS,Retail,Insider,Medium,260042,23.8,447
+1111,2025-05-16,South Korea,Asia,35.9,127.8,Phishing,Telecom,Unknown,Low,864142,5.6,598
+1112,2024-05-14,Israel,Asia,31.0,34.9,Malware,Defense,Unknown,Critical,222260,8.96,611
+1113,2023-07-24,Israel,Asia,31.0,34.9,Data Breach,Education,Cybercriminal Group,High,540104,335.51,461
+1114,2024-09-10,India,Asia,21.0,78.0,Ransomware,Transport,Cybercriminal Group,High,252154,398.18,118
+1115,2023-08-09,India,Asia,21.0,78.0,Phishing,Education,Cybercriminal Group,Medium,2638822,32.05,126
+1116,2025-03-25,United States,North America,38.0,-97.0,Data Breach,Education,Unknown,High,4712382,153.08,68
+1117,2025-01-03,Germany,Europe,51.0,10.0,Malware,Finance,Hacktivist,Medium,338931,11.64,432
+1118,2025-04-01,Ukraine,Europe,48.4,31.2,Phishing,Retail,Cybercriminal Group,Low,2302963,19.75,432
+1119,2024-08-13,India,Asia,21.0,78.0,Phishing,Government,Cybercriminal Group,High,4830814,37.28,5
+1120,2024-06-30,Turkey,Asia/Europe,38.9,35.2,Phishing,Transport,State-sponsored,Low,137501,33.98,72
+1121,2025-02-10,Japan,Asia,36.2,138.2,SQL Injection,Education,Cybercriminal Group,Medium,291840,26.66,321
+1122,2024-10-18,South Korea,Asia,35.9,127.8,Ransomware,Finance,Unknown,High,862875,163.25,30
+1123,2025-01-11,China,Asia,35.0,103.0,SQL Injection,Defense,Cybercriminal Group,High,46246,10.91,196
+1124,2025-08-14,Ukraine,Europe,48.4,31.2,Data Breach,Government,Cybercriminal Group,Critical,362349,432.61,114
+1125,2025-04-11,United States,North America,38.0,-97.0,Phishing,Defense,Cybercriminal Group,High,1429903,24.04,142
+1126,2025-06-28,Australia,Oceania,-25.3,133.8,Ransomware,Defense,Hacktivist,Critical,1027541,103.97,535
+1127,2025-01-18,South Korea,Asia,35.9,127.8,Malware,Retail,Cybercriminal Group,High,138413,47.64,304
+1128,2025-01-22,Ukraine,Europe,48.4,31.2,Phishing,Energy,Hacktivist,High,631356,20.25,507
+1129,2023-04-18,United States,North America,38.0,-97.0,Ransomware,Education,State-sponsored,Medium,4954666,123.75,541
+1130,2023-06-07,South Korea,Asia,35.9,127.8,Phishing,Transport,State-sponsored,High,1092026,75.77,225
+1131,2025-03-09,Turkey,Asia/Europe,38.9,35.2,Phishing,Defense,State-sponsored,Medium,2331677,28.79,434
+1132,2024-04-17,India,Asia,21.0,78.0,Phishing,Finance,Insider,Medium,2018984,70.11,17
+1133,2023-12-27,Nigeria,Africa,9.1,8.7,DDoS,Telecom,State-sponsored,Medium,288617,14.29,87
+1134,2023-02-24,Germany,Europe,51.0,10.0,DDoS,Retail,Cybercriminal Group,High,51382,34.77,51
+1135,2023-06-30,Ukraine,Europe,48.4,31.2,Data Breach,Telecom,Cybercriminal Group,Medium,4141753,156.57,532
+1136,2023-02-24,France,Europe,46.2,2.2,Malware,Government,Hacktivist,Medium,125282,14.0,68
+1137,2024-02-06,South Korea,Asia,35.9,127.8,Phishing,Defense,State-sponsored,Critical,2251386,71.08,508
+1138,2023-10-22,China,Asia,35.0,103.0,Data Breach,Government,State-sponsored,Critical,4222484,131.46,718
+1139,2023-11-19,Canada,North America,56.1,-106.3,Data Breach,Finance,State-sponsored,Medium,2787320,601.22,467
+1140,2025-09-24,India,Asia,21.0,78.0,Ransomware,Telecom,Unknown,Low,1433146,247.81,696
+1141,2024-05-15,Israel,Asia,31.0,34.9,Ransomware,Energy,Cybercriminal Group,High,379968,189.03,18
+1142,2025-02-12,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Healthcare,Insider,High,52524,884.54,312
+1143,2023-09-21,Singapore,Asia,1.35,103.8,Phishing,Retail,Cybercriminal Group,Critical,3849280,20.65,14
+1144,2025-05-27,Singapore,Asia,1.35,103.8,Phishing,Retail,State-sponsored,High,4357278,22.02,656
+1145,2024-01-01,United States,North America,38.0,-97.0,Zero-Day Exploit,Retail,State-sponsored,Critical,302920,1207.4,713
+1146,2024-01-22,Mexico,North America,23.6,-102.6,Phishing,Finance,Unknown,Critical,4572090,18.17,461
+1147,2023-12-06,Mexico,North America,23.6,-102.6,SQL Injection,Defense,Hacktivist,Medium,495691,25.94,283
+1148,2023-05-06,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,Unknown,Critical,4754508,269.64,356
+1149,2024-11-28,United Kingdom,Europe,54.0,-2.0,Zero-Day Exploit,Healthcare,Cybercriminal Group,Medium,152029,728.56,639
+1150,2023-01-16,Brazil,South America,-14.2,-51.9,DDoS,Retail,State-sponsored,High,148482,12.45,608
+1151,2023-01-01,India,Asia,21.0,78.0,Phishing,Government,Cybercriminal Group,High,2938843,2.19,291
+1152,2023-03-30,Israel,Asia,31.0,34.9,Malware,Telecom,State-sponsored,Medium,384430,100.89,202
+1153,2023-12-30,France,Europe,46.2,2.2,Supply Chain,Energy,Unknown,High,334094,57.66,396
+1154,2024-09-03,France,Europe,46.2,2.2,Zero-Day Exploit,Telecom,State-sponsored,Critical,228593,95.75,696
+1155,2024-03-02,Nigeria,Africa,9.1,8.7,Data Breach,Transport,State-sponsored,Medium,2559492,36.97,88
+1156,2025-06-15,United Kingdom,Europe,54.0,-2.0,Supply Chain,Defense,State-sponsored,High,276175,174.1,453
+1157,2024-03-13,Ukraine,Europe,48.4,31.2,Malware,Retail,Cybercriminal Group,High,215193,49.22,473
+1158,2023-05-24,United States,North America,38.0,-97.0,Malware,Telecom,Unknown,Low,304356,67.19,525
+1159,2025-05-15,Germany,Europe,51.0,10.0,Malware,Defense,State-sponsored,Low,351414,63.39,7
+1160,2023-10-04,Japan,Asia,36.2,138.2,Data Breach,Finance,Cybercriminal Group,Low,818042,56.56,298
+1161,2024-11-21,Brazil,South America,-14.2,-51.9,Data Breach,Transport,Insider,Critical,445766,91.36,719
+1162,2025-07-05,China,Asia,35.0,103.0,DDoS,Healthcare,Cybercriminal Group,Medium,163096,60.53,7
+1163,2024-09-10,Singapore,Asia,1.35,103.8,Malware,Finance,Cybercriminal Group,Low,129707,5.17,210
+1164,2023-05-05,United States,North America,38.0,-97.0,Ransomware,Telecom,Cybercriminal Group,Low,1544872,262.79,241
+1165,2024-11-04,South Africa,Africa,-30.6,22.9,Malware,Finance,Cybercriminal Group,High,333650,116.46,23
+1166,2024-12-17,India,Asia,21.0,78.0,SQL Injection,Transport,State-sponsored,Medium,252002,24.29,297
+1167,2024-02-05,United Kingdom,Europe,54.0,-2.0,Ransomware,Defense,Hacktivist,High,901398,302.61,476
+1168,2024-02-03,France,Europe,46.2,2.2,Phishing,Government,Hacktivist,Low,286913,3.06,661
+1169,2024-04-24,Ukraine,Europe,48.4,31.2,Malware,Retail,Cybercriminal Group,Critical,83102,33.34,367
+1170,2024-06-09,South Korea,Asia,35.9,127.8,SQL Injection,Finance,State-sponsored,High,79478,30.03,361
+1171,2025-02-19,Ukraine,Europe,48.4,31.2,Malware,Telecom,Unknown,Medium,35861,20.6,661
+1172,2025-08-07,Japan,Asia,36.2,138.2,Zero-Day Exploit,Transport,Insider,High,275578,261.55,266
+1173,2025-04-29,India,Asia,21.0,78.0,Phishing,Defense,State-sponsored,High,248647,38.3,163
+1174,2025-02-17,China,Asia,35.0,103.0,Malware,Energy,Unknown,High,424015,73.93,243
+1175,2024-03-06,United States,North America,38.0,-97.0,SQL Injection,Finance,State-sponsored,Critical,131425,44.51,118
+1176,2025-05-10,United States,North America,38.0,-97.0,Data Breach,Government,Unknown,High,2695078,162.91,111
+1177,2023-07-20,Ukraine,Europe,48.4,31.2,Phishing,Telecom,Cybercriminal Group,High,2400891,59.37,231
+1178,2023-01-25,India,Asia,21.0,78.0,DDoS,Finance,State-sponsored,Low,424777,39.62,144
+1179,2023-12-15,Nigeria,Africa,9.1,8.7,Phishing,Healthcare,Hacktivist,High,4431481,26.26,509
+1180,2024-09-25,India,Asia,21.0,78.0,DDoS,Transport,Unknown,High,420367,100.6,69
+1181,2025-03-12,France,Europe,46.2,2.2,Malware,Transport,Cybercriminal Group,Low,61927,92.52,511
+1182,2023-10-24,China,Asia,35.0,103.0,Malware,Telecom,Cybercriminal Group,High,187745,15.5,70
+1183,2025-05-23,Nigeria,Africa,9.1,8.7,DDoS,Transport,Unknown,High,262268,39.91,320
+1184,2025-08-17,Germany,Europe,51.0,10.0,Ransomware,Telecom,Hacktivist,High,271740,106.44,347
+1185,2024-07-14,France,Europe,46.2,2.2,DDoS,Education,Unknown,Low,347879,21.48,64
+1186,2025-02-22,China,Asia,35.0,103.0,Ransomware,Government,Cybercriminal Group,Critical,594603,712.56,427
+1187,2023-05-13,Australia,Oceania,-25.3,133.8,Malware,Telecom,Insider,Medium,54658,13.98,37
+1188,2025-05-20,South Korea,Asia,35.9,127.8,DDoS,Energy,State-sponsored,High,29122,31.27,27
+1189,2025-01-25,Israel,Asia,31.0,34.9,Data Breach,Government,Cybercriminal Group,High,438385,193.95,397
+1190,2023-04-29,Israel,Asia,31.0,34.9,Data Breach,Retail,State-sponsored,High,3085563,158.96,361
+1191,2023-01-11,India,Asia,21.0,78.0,Phishing,Energy,Cybercriminal Group,Low,4499119,2.52,582
+1192,2023-03-20,United States,North America,38.0,-97.0,Data Breach,Government,State-sponsored,Critical,1515927,184.52,290
+1193,2023-05-13,United States,North America,38.0,-97.0,Phishing,Defense,Cybercriminal Group,Critical,1027567,16.14,673
+1194,2025-04-12,United States,North America,38.0,-97.0,DDoS,Education,Unknown,Critical,450337,45.77,226
+1195,2024-10-31,Japan,Asia,36.2,138.2,Phishing,Energy,Cybercriminal Group,Medium,2245248,23.92,327
+1196,2024-09-28,Ukraine,Europe,48.4,31.2,Malware,Retail,Cybercriminal Group,High,106821,7.56,141
+1197,2024-01-17,South Africa,Africa,-30.6,22.9,Malware,Healthcare,State-sponsored,Medium,123362,36.19,716
+1198,2023-02-04,France,Europe,46.2,2.2,Data Breach,Telecom,Cybercriminal Group,High,3223707,100.28,308
+1199,2023-01-20,Singapore,Asia,1.35,103.8,Ransomware,Defense,Cybercriminal Group,High,373584,230.95,230
+1200,2023-02-02,China,Asia,35.0,103.0,DDoS,Transport,Insider,High,491475,11.2,27
+1201,2024-08-28,Turkey,Asia/Europe,38.9,35.2,Data Breach,Energy,Insider,Critical,2861048,127.63,637
+1202,2025-04-06,France,Europe,46.2,2.2,Phishing,Finance,Cybercriminal Group,Critical,2412040,59.42,548
+1203,2025-09-10,Japan,Asia,36.2,138.2,Malware,Defense,Cybercriminal Group,Medium,484888,62.26,244
+1204,2023-09-13,India,Asia,21.0,78.0,Ransomware,Transport,Cybercriminal Group,Low,4791588,403.8,405
+1205,2025-04-09,United States,North America,38.0,-97.0,Phishing,Government,State-sponsored,High,4769429,12.21,677
+1206,2023-01-10,United Kingdom,Europe,54.0,-2.0,DDoS,Retail,State-sponsored,Low,188174,18.41,492
+1207,2023-10-11,Ukraine,Europe,48.4,31.2,Malware,Transport,Cybercriminal Group,Critical,33677,46.45,452
+1208,2024-10-07,India,Asia,21.0,78.0,Data Breach,Healthcare,State-sponsored,Medium,416904,107.51,239
+1209,2023-02-12,India,Asia,21.0,78.0,Ransomware,Transport,Insider,High,511135,348.53,266
+1210,2023-02-15,Mexico,North America,23.6,-102.6,Ransomware,Energy,Cybercriminal Group,High,650942,425.57,520
+1211,2025-04-29,Japan,Asia,36.2,138.2,Malware,Defense,State-sponsored,Medium,223695,19.64,290
+1212,2025-07-07,India,Asia,21.0,78.0,Phishing,Education,Cybercriminal Group,Critical,2467779,31.95,637
+1213,2023-01-27,United States,North America,38.0,-97.0,Phishing,Finance,Hacktivist,Critical,2627521,7.83,524
+1214,2023-08-09,Ukraine,Europe,48.4,31.2,Data Breach,Defense,Unknown,High,274464,554.92,673
+1215,2025-09-08,Ukraine,Europe,48.4,31.2,Phishing,Energy,Cybercriminal Group,Critical,4819745,11.98,646
+1216,2024-09-13,Brazil,South America,-14.2,-51.9,Phishing,Retail,Hacktivist,Critical,4365894,44.78,452
+1217,2025-03-29,United Kingdom,Europe,54.0,-2.0,DDoS,Education,Cybercriminal Group,Medium,165154,28.89,119
+1218,2023-12-27,Ukraine,Europe,48.4,31.2,Phishing,Transport,Cybercriminal Group,High,3040167,38.39,670
+1219,2025-04-26,Japan,Asia,36.2,138.2,DDoS,Healthcare,Unknown,High,128521,38.38,418
+1220,2023-05-01,Ukraine,Europe,48.4,31.2,Malware,Finance,Cybercriminal Group,High,264879,43.97,152
+1221,2023-01-16,Australia,Oceania,-25.3,133.8,Malware,Healthcare,State-sponsored,Critical,138184,33.0,568
+1222,2023-01-25,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,Unknown,High,1111465,1.75,528
+1223,2024-12-14,Nigeria,Africa,9.1,8.7,Supply Chain,Transport,Cybercriminal Group,Medium,153921,544.95,122
+1224,2025-01-09,United Kingdom,Europe,54.0,-2.0,SQL Injection,Government,State-sponsored,High,482824,33.28,364
+1225,2023-10-24,Indonesia,Asia,-0.8,113.9,Supply Chain,Retail,Hacktivist,Critical,384635,775.46,188
+1226,2025-07-06,Ukraine,Europe,48.4,31.2,Malware,Government,Hacktivist,Low,194020,87.19,691
+1227,2023-10-14,Ukraine,Europe,48.4,31.2,Phishing,Finance,Cybercriminal Group,High,4139045,28.0,350
+1228,2024-03-12,United States,North America,38.0,-97.0,Malware,Telecom,Cybercriminal Group,Critical,167126,57.99,183
+1229,2024-06-15,Indonesia,Asia,-0.8,113.9,Ransomware,Telecom,Hacktivist,Medium,2638104,947.25,102
+1230,2025-06-25,Germany,Europe,51.0,10.0,DDoS,Healthcare,Cybercriminal Group,Medium,481235,26.59,266
+1231,2023-04-09,Mexico,North America,23.6,-102.6,Data Breach,Energy,Cybercriminal Group,Medium,4268269,649.43,173
+1232,2023-07-19,United States,North America,38.0,-97.0,SQL Injection,Government,Cybercriminal Group,High,431273,86.57,27
+1233,2024-06-17,Germany,Europe,51.0,10.0,Phishing,Healthcare,Unknown,Critical,2475149,38.02,113
+1234,2023-03-30,Ukraine,Europe,48.4,31.2,Supply Chain,Healthcare,Unknown,High,383686,93.97,685
+1235,2023-12-01,India,Asia,21.0,78.0,Phishing,Healthcare,Cybercriminal Group,High,2317162,3.0,465
+1236,2025-07-02,Canada,North America,56.1,-106.3,Malware,Government,Cybercriminal Group,High,488929,110.57,534
+1237,2024-10-11,United Kingdom,Europe,54.0,-2.0,SQL Injection,Government,Cybercriminal Group,Low,307512,81.37,386
+1238,2025-04-13,Nigeria,Africa,9.1,8.7,DDoS,Healthcare,Insider,Low,148263,19.68,135
+1239,2023-01-04,India,Asia,21.0,78.0,SQL Injection,Defense,State-sponsored,Critical,292514,114.39,626
+1240,2024-10-08,China,Asia,35.0,103.0,DDoS,Energy,Hacktivist,High,253977,36.36,544
+1241,2024-11-15,Ukraine,Europe,48.4,31.2,DDoS,Retail,Cybercriminal Group,High,330415,16.5,402
+1242,2025-06-21,Australia,Oceania,-25.3,133.8,Malware,Telecom,Cybercriminal Group,Low,234547,14.1,334
+1243,2023-12-22,Russia,Europe/Asia,61.5,105.3,Phishing,Defense,Hacktivist,High,4058894,8.7,501
+1244,2025-06-30,Australia,Oceania,-25.3,133.8,Data Breach,Defense,State-sponsored,Medium,2712131,24.7,268
+1245,2025-07-23,Ukraine,Europe,48.4,31.2,Phishing,Government,Cybercriminal Group,High,1837670,32.74,348
+1246,2023-06-20,Canada,North America,56.1,-106.3,Ransomware,Transport,State-sponsored,High,926394,140.92,629
+1247,2024-01-24,Canada,North America,56.1,-106.3,Ransomware,Finance,Insider,Low,2796823,558.18,362
+1248,2024-07-02,Israel,Asia,31.0,34.9,Malware,Energy,Unknown,Medium,439531,70.84,549
+1249,2023-12-06,Germany,Europe,51.0,10.0,Data Breach,Defense,Cybercriminal Group,Critical,2087278,67.33,14
+1250,2025-03-21,United States,North America,38.0,-97.0,Ransomware,Retail,State-sponsored,High,2375728,141.41,309
+1251,2023-05-07,United States,North America,38.0,-97.0,Malware,Defense,Hacktivist,Medium,68883,14.82,277
+1252,2024-03-01,South Africa,Africa,-30.6,22.9,Ransomware,Government,State-sponsored,Critical,4545091,524.33,620
+1253,2024-09-12,Turkey,Asia/Europe,38.9,35.2,Ransomware,Telecom,Insider,Medium,3567439,302.33,525
+1254,2024-11-02,Israel,Asia,31.0,34.9,Phishing,Retail,Cybercriminal Group,Medium,3604197,5.83,96
+1255,2024-06-30,China,Asia,35.0,103.0,Phishing,Transport,Cybercriminal Group,Critical,145389,12.59,509
+1256,2023-08-18,Israel,Asia,31.0,34.9,Supply Chain,Government,Cybercriminal Group,Medium,121795,927.11,458
+1257,2024-10-07,Germany,Europe,51.0,10.0,Malware,Finance,State-sponsored,Medium,88838,46.43,213
+1258,2025-05-08,Nigeria,Africa,9.1,8.7,Phishing,Retail,Cybercriminal Group,Medium,4754314,6.9,239
+1259,2023-06-04,United States,North America,38.0,-97.0,Phishing,Government,Cybercriminal Group,High,4743183,35.3,614
+1260,2024-07-12,Germany,Europe,51.0,10.0,Ransomware,Retail,Cybercriminal Group,Critical,1978524,527.09,330
+1261,2023-03-25,Japan,Asia,36.2,138.2,Phishing,Finance,Cybercriminal Group,Critical,651154,46.17,385
+1262,2024-03-24,India,Asia,21.0,78.0,Ransomware,Finance,State-sponsored,Medium,3559298,80.87,508
+1263,2024-03-04,India,Asia,21.0,78.0,Data Breach,Defense,State-sponsored,Critical,987360,356.42,446
+1264,2024-09-21,Mexico,North America,23.6,-102.6,Data Breach,Education,Cybercriminal Group,High,1393053,309.88,145
+1265,2024-09-11,United Kingdom,Europe,54.0,-2.0,Data Breach,Telecom,Cybercriminal Group,High,1767784,567.89,339
+1266,2025-01-02,Turkey,Asia/Europe,38.9,35.2,Data Breach,Retail,State-sponsored,Medium,3493202,180.33,184
+1267,2023-07-24,India,Asia,21.0,78.0,Ransomware,Finance,Cybercriminal Group,Critical,2777923,488.95,97
+1268,2025-06-23,United States,North America,38.0,-97.0,Phishing,Energy,Cybercriminal Group,High,119526,7.95,198
+1269,2024-01-12,United Kingdom,Europe,54.0,-2.0,SQL Injection,Defense,Unknown,Critical,294284,78.72,555
+1270,2023-10-14,Ukraine,Europe,48.4,31.2,DDoS,Healthcare,Cybercriminal Group,High,53746,14.83,130
+1271,2025-05-23,Singapore,Asia,1.35,103.8,Malware,Telecom,Unknown,High,386639,54.56,631
+1272,2023-04-04,Ukraine,Europe,48.4,31.2,Phishing,Healthcare,State-sponsored,Critical,3989481,5.03,1
+1273,2024-03-11,United Kingdom,Europe,54.0,-2.0,SQL Injection,Retail,Cybercriminal Group,High,262440,8.96,121
+1274,2023-11-16,Russia,Europe/Asia,61.5,105.3,Phishing,Transport,Cybercriminal Group,High,656986,62.82,620
+1275,2025-05-10,South Africa,Africa,-30.6,22.9,Zero-Day Exploit,Defense,Cybercriminal Group,Critical,257050,663.48,712
+1276,2023-07-02,Israel,Asia,31.0,34.9,Data Breach,Government,Unknown,High,3910727,201.9,687
+1277,2023-07-03,Germany,Europe,51.0,10.0,Phishing,Government,State-sponsored,Medium,3029215,15.27,539
+1278,2024-05-29,India,Asia,21.0,78.0,Malware,Government,Hacktivist,Critical,17678,25.68,663
+1279,2023-10-08,United Kingdom,Europe,54.0,-2.0,Phishing,Government,Unknown,High,256235,7.34,483
+1280,2024-10-25,Mexico,North America,23.6,-102.6,Malware,Transport,Unknown,Critical,20124,36.36,379
+1281,2025-05-21,United States,North America,38.0,-97.0,SQL Injection,Healthcare,State-sponsored,Low,437389,23.46,123
+1282,2023-10-12,United States,North America,38.0,-97.0,Malware,Energy,Hacktivist,High,386738,2.43,18
+1283,2024-08-23,United Kingdom,Europe,54.0,-2.0,Malware,Education,Cybercriminal Group,Medium,493216,126.76,681
+1284,2025-02-18,Germany,Europe,51.0,10.0,SQL Injection,Transport,State-sponsored,Low,139894,12.35,86
+1285,2023-06-27,India,Asia,21.0,78.0,Ransomware,Government,Cybercriminal Group,High,4703312,624.19,360
+1286,2024-04-19,India,Asia,21.0,78.0,Phishing,Finance,State-sponsored,Medium,760686,10.13,187
+1287,2025-03-18,Israel,Asia,31.0,34.9,DDoS,Government,Cybercriminal Group,High,196461,14.8,472
+1288,2025-07-12,United States,North America,38.0,-97.0,Data Breach,Energy,Insider,High,1114460,195.31,318
+1289,2024-02-28,United States,North America,38.0,-97.0,Data Breach,Energy,Unknown,High,2289407,44.78,205
+1290,2023-12-30,India,Asia,21.0,78.0,Phishing,Education,Cybercriminal Group,Low,4388600,28.51,461
+1291,2024-07-04,Singapore,Asia,1.35,103.8,Data Breach,Energy,Unknown,High,3640426,108.16,356
+1292,2024-05-30,Ukraine,Europe,48.4,31.2,Data Breach,Transport,Unknown,High,2257117,111.71,93
+1293,2023-04-29,South Korea,Asia,35.9,127.8,DDoS,Transport,Hacktivist,Low,97840,21.37,487
+1294,2025-07-11,India,Asia,21.0,78.0,Malware,Government,Cybercriminal Group,High,54947,28.57,645
+1295,2024-10-25,Germany,Europe,51.0,10.0,SQL Injection,Finance,State-sponsored,Medium,187797,12.05,314
+1296,2024-04-12,India,Asia,21.0,78.0,Malware,Defense,Insider,Critical,248388,53.63,250
+1297,2023-02-11,Russia,Europe/Asia,61.5,105.3,Phishing,Energy,Insider,Medium,4253695,29.68,111
+1298,2023-06-17,France,Europe,46.2,2.2,Data Breach,Transport,State-sponsored,High,2522470,334.58,612
+1299,2023-05-14,Indonesia,Asia,-0.8,113.9,Supply Chain,Education,Unknown,Critical,28306,208.67,93
+1300,2024-04-16,United Kingdom,Europe,54.0,-2.0,Data Breach,Government,Hacktivist,High,1682131,283.5,177
+1301,2025-01-11,United Kingdom,Europe,54.0,-2.0,Ransomware,Energy,State-sponsored,High,4659598,80.02,384
+1302,2024-12-16,United States,North America,38.0,-97.0,DDoS,Energy,Unknown,High,350553,18.74,386
+1303,2023-11-22,South Africa,Africa,-30.6,22.9,Data Breach,Healthcare,Cybercriminal Group,High,2745012,81.19,290
+1304,2023-12-22,Singapore,Asia,1.35,103.8,Data Breach,Retail,Hacktivist,High,4920322,157.24,28
+1305,2024-05-28,China,Asia,35.0,103.0,Malware,Government,Hacktivist,High,394199,54.68,408
+1306,2023-11-06,Turkey,Asia/Europe,38.9,35.2,Malware,Defense,State-sponsored,Low,201461,7.87,670
+1307,2023-02-05,India,Asia,21.0,78.0,DDoS,Telecom,Unknown,Critical,221211,56.66,184
+1308,2023-12-21,India,Asia,21.0,78.0,Data Breach,Finance,Hacktivist,Critical,3393970,294.47,13
+1309,2024-05-12,India,Asia,21.0,78.0,Ransomware,Defense,Cybercriminal Group,High,458273,526.69,311
+1310,2025-03-10,France,Europe,46.2,2.2,Data Breach,Retail,Hacktivist,High,4489107,53.85,374
+1311,2023-03-23,United States,North America,38.0,-97.0,DDoS,Healthcare,State-sponsored,Critical,497230,36.8,605
+1312,2024-04-20,Russia,Europe/Asia,61.5,105.3,Malware,Telecom,State-sponsored,High,455127,44.56,502
+1313,2023-12-12,Japan,Asia,36.2,138.2,Ransomware,Telecom,Insider,Medium,198386,307.68,556
+1314,2024-10-13,Russia,Europe/Asia,61.5,105.3,Phishing,Government,Hacktivist,Medium,2997783,17.85,38
+1315,2025-01-14,South Korea,Asia,35.9,127.8,Phishing,Healthcare,Hacktivist,Low,3617333,12.99,282
+1316,2024-08-05,Germany,Europe,51.0,10.0,Phishing,Retail,State-sponsored,Critical,2740622,50.91,382
+1317,2025-01-12,United States,North America,38.0,-97.0,Malware,Finance,Cybercriminal Group,Medium,333935,15.53,310
+1318,2025-01-30,France,Europe,46.2,2.2,Ransomware,Finance,Unknown,Critical,3636918,476.17,120
+1319,2025-05-24,Israel,Asia,31.0,34.9,Malware,Energy,Hacktivist,High,25701,104.5,384
+1320,2025-03-07,Australia,Oceania,-25.3,133.8,DDoS,Healthcare,Cybercriminal Group,Critical,352127,75.16,47
+1321,2023-08-01,Canada,North America,56.1,-106.3,Supply Chain,Government,Insider,Low,344668,414.97,133
+1322,2023-08-15,United Kingdom,Europe,54.0,-2.0,Phishing,Energy,State-sponsored,High,2724016,64.06,227
+1323,2024-10-12,United States,North America,38.0,-97.0,Phishing,Education,Cybercriminal Group,Medium,3990646,29.06,572
+1324,2025-05-24,United States,North America,38.0,-97.0,Phishing,Retail,State-sponsored,Low,1427175,15.16,690
+1325,2024-10-08,Germany,Europe,51.0,10.0,Phishing,Retail,Cybercriminal Group,Critical,2897579,40.66,86
+1326,2024-04-07,China,Asia,35.0,103.0,Zero-Day Exploit,Retail,State-sponsored,Critical,327708,277.36,599
+1327,2023-10-18,India,Asia,21.0,78.0,Phishing,Transport,Insider,High,1969962,5.52,385
+1328,2023-08-12,Turkey,Asia/Europe,38.9,35.2,Ransomware,Energy,Unknown,Low,4788756,93.43,297
+1329,2024-07-17,India,Asia,21.0,78.0,DDoS,Defense,Cybercriminal Group,Critical,114265,126.63,429
+1330,2025-06-24,Turkey,Asia/Europe,38.9,35.2,Phishing,Education,Cybercriminal Group,Medium,4468004,62.56,402
+1331,2024-04-05,China,Asia,35.0,103.0,Phishing,Healthcare,Unknown,Critical,1491040,30.76,410
+1332,2024-11-30,United Kingdom,Europe,54.0,-2.0,Malware,Finance,Cybercriminal Group,High,342514,26.05,429
+1333,2024-09-16,Mexico,North America,23.6,-102.6,Phishing,Transport,Unknown,Medium,4787411,39.28,419
+1334,2024-12-01,Indonesia,Asia,-0.8,113.9,Phishing,Finance,Unknown,High,191585,17.25,616
+1335,2023-06-15,Nigeria,Africa,9.1,8.7,Malware,Retail,Cybercriminal Group,High,458668,24.26,246
+1336,2023-03-08,India,Asia,21.0,78.0,Supply Chain,Government,State-sponsored,Medium,241890,554.8,471
+1337,2024-05-27,Russia,Europe/Asia,61.5,105.3,Malware,Finance,Unknown,Critical,439388,41.59,340
+1338,2023-01-08,Nigeria,Africa,9.1,8.7,SQL Injection,Government,Hacktivist,Critical,213142,33.91,533
+1339,2025-06-23,Mexico,North America,23.6,-102.6,SQL Injection,Transport,State-sponsored,Critical,407260,7.01,622
+1340,2023-03-03,Ukraine,Europe,48.4,31.2,Malware,Telecom,Unknown,High,434371,5.57,41
+1341,2025-03-17,Germany,Europe,51.0,10.0,Data Breach,Finance,State-sponsored,High,2203002,372.74,594
+1342,2023-05-26,Israel,Asia,31.0,34.9,Ransomware,Energy,Unknown,High,1763320,101.1,271
+1343,2023-09-08,United States,North America,38.0,-97.0,Malware,Telecom,Cybercriminal Group,Medium,361436,17.78,456
+1344,2025-02-18,United Kingdom,Europe,54.0,-2.0,Phishing,Healthcare,State-sponsored,Medium,2420529,11.8,27
+1345,2025-01-03,China,Asia,35.0,103.0,Phishing,Healthcare,Cybercriminal Group,Medium,2557355,15.78,487
+1346,2024-09-14,Ukraine,Europe,48.4,31.2,Malware,Telecom,Unknown,Low,135002,28.39,653
+1347,2023-09-23,China,Asia,35.0,103.0,SQL Injection,Education,Insider,Medium,390934,21.75,530
+1348,2024-08-24,Germany,Europe,51.0,10.0,Malware,Transport,Cybercriminal Group,High,196373,15.25,388
+1349,2024-05-10,Nigeria,Africa,9.1,8.7,Phishing,Defense,State-sponsored,Medium,544184,12.64,351
+1350,2025-03-19,China,Asia,35.0,103.0,DDoS,Finance,Hacktivist,High,187009,24.38,511
+1351,2025-03-12,Japan,Asia,36.2,138.2,Supply Chain,Transport,Unknown,Critical,388795,1092.25,208
+1352,2023-10-05,Germany,Europe,51.0,10.0,Ransomware,Transport,Unknown,High,4511798,320.67,82
+1353,2025-03-27,Mexico,North America,23.6,-102.6,Ransomware,Healthcare,Hacktivist,Medium,2056939,175.21,234
+1354,2023-10-12,Ukraine,Europe,48.4,31.2,Phishing,Finance,Insider,Medium,535093,5.29,136
+1355,2024-05-03,South Korea,Asia,35.9,127.8,Ransomware,Retail,State-sponsored,Critical,429513,193.86,327
+1356,2023-07-22,Israel,Asia,31.0,34.9,Ransomware,Finance,Cybercriminal Group,Low,1804499,249.58,613
+1357,2024-03-29,Japan,Asia,36.2,138.2,Malware,Energy,Hacktivist,High,332987,12.72,630
+1358,2024-05-19,Israel,Asia,31.0,34.9,Zero-Day Exploit,Healthcare,Cybercriminal Group,High,253477,198.67,527
+1359,2023-10-09,United Kingdom,Europe,54.0,-2.0,Malware,Transport,Cybercriminal Group,Medium,328263,32.16,451
+1360,2025-09-24,United States,North America,38.0,-97.0,Data Breach,Transport,Cybercriminal Group,Medium,1369440,22.81,184
+1361,2024-12-04,United States,North America,38.0,-97.0,Phishing,Transport,Unknown,Medium,1624996,13.58,112
+1362,2024-04-28,Israel,Asia,31.0,34.9,DDoS,Finance,Hacktivist,Critical,486404,42.63,625
+1363,2025-03-15,China,Asia,35.0,103.0,Malware,Healthcare,Unknown,High,319980,15.22,679
+1364,2024-03-02,India,Asia,21.0,78.0,Zero-Day Exploit,Telecom,Cybercriminal Group,High,137911,1374.75,484
+1365,2023-12-29,Indonesia,Asia,-0.8,113.9,SQL Injection,Education,Cybercriminal Group,Medium,223078,24.14,577
+1366,2024-02-23,Germany,Europe,51.0,10.0,Phishing,Education,Hacktivist,Low,1174820,30.96,468
+1367,2023-09-20,Israel,Asia,31.0,34.9,Ransomware,Telecom,Unknown,High,199633,214.85,330
+1368,2023-08-09,France,Europe,46.2,2.2,Phishing,Transport,Cybercriminal Group,Medium,2299168,46.41,110
+1369,2025-09-01,United States,North America,38.0,-97.0,DDoS,Government,Insider,High,204605,118.43,705
+1370,2023-03-02,Indonesia,Asia,-0.8,113.9,Data Breach,Finance,State-sponsored,High,2875708,148.05,283
+1371,2025-02-06,Brazil,South America,-14.2,-51.9,Phishing,Finance,Cybercriminal Group,Low,3472016,12.8,156
+1372,2023-09-09,Nigeria,Africa,9.1,8.7,Malware,Education,Hacktivist,Low,400020,62.83,677
+1373,2025-02-27,Russia,Europe/Asia,61.5,105.3,Malware,Finance,Unknown,Low,366709,6.97,322
+1374,2023-07-08,Indonesia,Asia,-0.8,113.9,Phishing,Education,Cybercriminal Group,Critical,3866501,62.73,371
+1375,2025-08-13,United Kingdom,Europe,54.0,-2.0,Malware,Government,State-sponsored,High,336818,50.47,421
+1376,2024-06-08,France,Europe,46.2,2.2,Data Breach,Education,State-sponsored,Low,3668557,423.54,33
+1377,2024-08-11,Indonesia,Asia,-0.8,113.9,SQL Injection,Education,Hacktivist,High,385154,32.46,78
+1378,2024-06-09,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Finance,Hacktivist,Medium,245701,829.49,625
+1379,2023-10-11,Ukraine,Europe,48.4,31.2,DDoS,Retail,Cybercriminal Group,Medium,461756,20.96,156
+1380,2025-03-10,Ukraine,Europe,48.4,31.2,Ransomware,Defense,Unknown,High,3368741,330.96,589
+1381,2024-03-13,United Kingdom,Europe,54.0,-2.0,Malware,Healthcare,Cybercriminal Group,Medium,116958,8.92,599
+1382,2025-04-21,Ukraine,Europe,48.4,31.2,Phishing,Education,Unknown,Medium,4840019,38.79,157
+1383,2024-09-08,India,Asia,21.0,78.0,DDoS,Government,Insider,Low,283255,8.44,357
+1384,2023-07-26,Indonesia,Asia,-0.8,113.9,Phishing,Telecom,State-sponsored,High,2274966,8.39,239
+1385,2025-08-25,Indonesia,Asia,-0.8,113.9,DDoS,Retail,State-sponsored,High,497132,18.99,385
+1386,2024-04-02,United States,North America,38.0,-97.0,SQL Injection,Retail,Cybercriminal Group,High,107910,31.01,390
+1387,2025-01-11,Australia,Oceania,-25.3,133.8,Ransomware,Transport,State-sponsored,Critical,1759570,727.86,124
+1388,2023-08-04,Indonesia,Asia,-0.8,113.9,Data Breach,Finance,Unknown,High,3019711,135.06,490
+1389,2024-03-06,Russia,Europe/Asia,61.5,105.3,Ransomware,Defense,Unknown,High,840414,71.8,364
+1390,2024-12-19,Germany,Europe,51.0,10.0,Phishing,Finance,Hacktivist,Medium,3269924,8.96,483
+1391,2025-05-17,United States,North America,38.0,-97.0,Zero-Day Exploit,Energy,State-sponsored,Low,4962,518.85,132
+1392,2025-04-01,South Korea,Asia,35.9,127.8,DDoS,Energy,Unknown,Low,346629,12.07,301
+1393,2024-06-15,Germany,Europe,51.0,10.0,Phishing,Healthcare,Insider,Low,1524494,4.79,374
+1394,2024-02-18,Nigeria,Africa,9.1,8.7,Ransomware,Education,Unknown,Medium,2225502,97.94,637
+1395,2025-06-11,United Kingdom,Europe,54.0,-2.0,Data Breach,Healthcare,Unknown,Low,391065,126.08,553
+1396,2023-12-24,Germany,Europe,51.0,10.0,Malware,Energy,State-sponsored,Low,34873,23.2,116
+1397,2025-05-27,Mexico,North America,23.6,-102.6,Phishing,Government,Cybercriminal Group,Medium,3939342,26.66,264
+1398,2023-04-09,India,Asia,21.0,78.0,Malware,Retail,Cybercriminal Group,High,435830,42.19,585
+1399,2023-03-26,India,Asia,21.0,78.0,DDoS,Finance,Insider,Medium,148106,8.84,630
+1400,2024-12-28,United States,North America,38.0,-97.0,DDoS,Retail,Hacktivist,High,272686,37.69,530
+1401,2024-01-19,Australia,Oceania,-25.3,133.8,SQL Injection,Healthcare,Hacktivist,Medium,490112,27.79,36
+1402,2023-01-15,Israel,Asia,31.0,34.9,Data Breach,Healthcare,Hacktivist,Critical,1996057,136.01,166
+1403,2025-06-09,Germany,Europe,51.0,10.0,Ransomware,Defense,Cybercriminal Group,Medium,1803176,250.77,465
+1404,2024-06-10,Canada,North America,56.1,-106.3,Malware,Education,Cybercriminal Group,High,468041,11.78,191
+1405,2023-04-09,Russia,Europe/Asia,61.5,105.3,Data Breach,Education,Insider,High,2206057,267.4,65
+1406,2023-08-21,Israel,Asia,31.0,34.9,Phishing,Retail,Unknown,Low,1009962,4.45,564
+1407,2025-08-20,Ukraine,Europe,48.4,31.2,Ransomware,Finance,Unknown,High,4234929,186.86,187
+1408,2024-11-27,Germany,Europe,51.0,10.0,Supply Chain,Energy,Insider,Medium,104264,359.5,363
+1409,2025-03-30,South Korea,Asia,35.9,127.8,Data Breach,Transport,Cybercriminal Group,High,1933932,305.35,711
+1410,2024-10-12,Indonesia,Asia,-0.8,113.9,Malware,Energy,Unknown,High,393894,8.61,156
+1411,2025-09-09,Brazil,South America,-14.2,-51.9,Zero-Day Exploit,Defense,Cybercriminal Group,Medium,472460,188.45,535
+1412,2023-11-04,Mexico,North America,23.6,-102.6,SQL Injection,Government,State-sponsored,High,371474,17.81,570
+1413,2023-03-02,Ukraine,Europe,48.4,31.2,DDoS,Defense,State-sponsored,Critical,252246,90.01,165
+1414,2023-06-13,Israel,Asia,31.0,34.9,Data Breach,Defense,Cybercriminal Group,High,1623116,200.13,255
+1415,2024-02-16,South Africa,Africa,-30.6,22.9,Ransomware,Finance,Insider,Medium,4916134,482.41,689
+1416,2023-05-01,India,Asia,21.0,78.0,Phishing,Transport,Cybercriminal Group,Low,861773,27.55,644
+1417,2024-09-16,Australia,Oceania,-25.3,133.8,DDoS,Retail,State-sponsored,Medium,461592,11.36,350
+1418,2024-04-22,Nigeria,Africa,9.1,8.7,Supply Chain,Defense,Hacktivist,Medium,459503,48.56,709
+1419,2025-01-19,Nigeria,Africa,9.1,8.7,Phishing,Education,Cybercriminal Group,Low,4149433,19.59,719
+1420,2025-01-20,Indonesia,Asia,-0.8,113.9,Phishing,Telecom,Unknown,High,4260932,26.25,337
+1421,2024-12-31,France,Europe,46.2,2.2,SQL Injection,Retail,Cybercriminal Group,Low,259610,17.71,227
+1422,2024-09-13,Australia,Oceania,-25.3,133.8,Malware,Defense,Hacktivist,Medium,456436,21.72,684
+1423,2024-08-12,Germany,Europe,51.0,10.0,Malware,Finance,State-sponsored,Critical,400672,85.93,245
+1424,2025-01-05,Germany,Europe,51.0,10.0,Malware,Government,Cybercriminal Group,Critical,413310,63.65,451
+1425,2024-10-05,South Africa,Africa,-30.6,22.9,Malware,Defense,Hacktivist,Critical,13543,38.5,222
+1426,2024-02-27,Brazil,South America,-14.2,-51.9,Ransomware,Government,Insider,Medium,2127631,142.22,368
+1427,2025-03-13,Singapore,Asia,1.35,103.8,Phishing,Government,Cybercriminal Group,Medium,2208660,23.4,165
+1428,2025-02-10,China,Asia,35.0,103.0,Data Breach,Education,Insider,Critical,1444327,198.34,512
+1429,2025-09-16,South Africa,Africa,-30.6,22.9,Phishing,Energy,Cybercriminal Group,Critical,2566531,50.85,104
+1430,2023-07-10,Turkey,Asia/Europe,38.9,35.2,Ransomware,Defense,State-sponsored,High,4073171,322.37,360
+1431,2023-11-27,United Kingdom,Europe,54.0,-2.0,Phishing,Government,State-sponsored,Critical,4881885,9.44,318
+1432,2024-02-12,Turkey,Asia/Europe,38.9,35.2,Data Breach,Finance,State-sponsored,High,760523,304.14,613
+1433,2024-06-29,Turkey,Asia/Europe,38.9,35.2,Malware,Education,Cybercriminal Group,Critical,483104,36.15,395
+1434,2025-09-21,United States,North America,38.0,-97.0,Zero-Day Exploit,Finance,Cybercriminal Group,High,117972,575.76,454
+1435,2023-08-18,Singapore,Asia,1.35,103.8,DDoS,Energy,Cybercriminal Group,Low,118501,16.63,451
+1436,2025-05-28,Ukraine,Europe,48.4,31.2,DDoS,Retail,Unknown,Critical,217430,3.56,570
+1437,2024-10-04,Brazil,South America,-14.2,-51.9,Malware,Defense,Insider,High,370638,46.82,373
+1438,2024-01-01,Singapore,Asia,1.35,103.8,DDoS,Finance,Unknown,Medium,70612,19.66,330
+1439,2023-04-09,South Africa,Africa,-30.6,22.9,Zero-Day Exploit,Transport,Hacktivist,High,280782,293.13,322
+1440,2024-10-22,United States,North America,38.0,-97.0,SQL Injection,Transport,Unknown,High,117521,15.99,477
+1441,2024-03-22,Russia,Europe/Asia,61.5,105.3,SQL Injection,Finance,Unknown,Medium,89932,29.23,23
+1442,2024-12-24,Brazil,South America,-14.2,-51.9,Malware,Healthcare,State-sponsored,Medium,185914,7.8,67
+1443,2024-09-04,Indonesia,Asia,-0.8,113.9,Phishing,Retail,Cybercriminal Group,Low,1119677,23.15,406
+1444,2023-08-27,China,Asia,35.0,103.0,Phishing,Transport,Unknown,High,1210914,44.92,553
+1445,2025-02-11,Mexico,North America,23.6,-102.6,Malware,Education,Hacktivist,Low,406224,91.41,73
+1446,2024-09-07,Canada,North America,56.1,-106.3,Malware,Healthcare,Unknown,Medium,15559,104.41,665
+1447,2024-08-10,Turkey,Asia/Europe,38.9,35.2,Data Breach,Defense,Unknown,Critical,3199498,37.84,714
+1448,2024-12-25,Japan,Asia,36.2,138.2,SQL Injection,Defense,Unknown,Medium,262077,13.43,93
+1449,2023-12-14,India,Asia,21.0,78.0,Phishing,Retail,Insider,High,4395517,21.22,264
+1450,2023-04-08,United States,North America,38.0,-97.0,Malware,Healthcare,State-sponsored,High,277511,20.64,13
+1451,2025-05-29,United States,North America,38.0,-97.0,Phishing,Finance,Unknown,Medium,1582102,4.58,652
+1452,2024-11-30,Canada,North America,56.1,-106.3,DDoS,Healthcare,Hacktivist,Low,301033,21.38,182
+1453,2025-04-13,Nigeria,Africa,9.1,8.7,Data Breach,Retail,State-sponsored,High,326262,185.81,551
+1454,2023-04-21,Nigeria,Africa,9.1,8.7,Data Breach,Education,Hacktivist,Critical,4951170,55.29,531
+1455,2025-07-31,India,Asia,21.0,78.0,Ransomware,Education,Unknown,Critical,4597793,67.63,399
+1456,2024-01-10,Israel,Asia,31.0,34.9,Supply Chain,Healthcare,Cybercriminal Group,High,428750,122.85,503
+1457,2025-07-20,India,Asia,21.0,78.0,Phishing,Finance,Unknown,High,763973,15.62,680
+1458,2024-02-08,Ukraine,Europe,48.4,31.2,Supply Chain,Transport,Hacktivist,High,148243,697.45,329
+1459,2024-03-21,India,Asia,21.0,78.0,Data Breach,Defense,State-sponsored,High,200935,226.28,504
+1460,2025-03-16,United States,North America,38.0,-97.0,Malware,Telecom,Insider,High,366525,44.24,57
+1461,2025-02-04,South Korea,Asia,35.9,127.8,Ransomware,Transport,State-sponsored,Critical,2632117,474.45,50
+1462,2024-07-04,Brazil,South America,-14.2,-51.9,Ransomware,Government,Unknown,High,3640012,99.25,521
+1463,2023-08-08,South Korea,Asia,35.9,127.8,DDoS,Finance,Cybercriminal Group,Low,97463,65.62,227
+1464,2024-09-19,Ukraine,Europe,48.4,31.2,Ransomware,Government,State-sponsored,High,3201159,70.64,211
+1465,2025-07-26,Turkey,Asia/Europe,38.9,35.2,Ransomware,Education,Unknown,High,3271850,95.65,234
+1466,2024-09-28,Germany,Europe,51.0,10.0,SQL Injection,Telecom,Unknown,Medium,221790,3.33,697
+1467,2024-10-31,Australia,Oceania,-25.3,133.8,SQL Injection,Telecom,Cybercriminal Group,Critical,5462,23.22,426
+1468,2024-05-14,Singapore,Asia,1.35,103.8,Phishing,Telecom,Hacktivist,High,3318430,20.41,43
+1469,2023-04-28,Ukraine,Europe,48.4,31.2,Phishing,Finance,State-sponsored,Low,4099143,16.32,69
+1470,2025-01-02,India,Asia,21.0,78.0,Phishing,Defense,Cybercriminal Group,Critical,2403824,37.85,292
+1471,2025-06-24,South Africa,Africa,-30.6,22.9,DDoS,Energy,Unknown,Critical,290948,62.07,510
+1472,2023-08-23,India,Asia,21.0,78.0,Malware,Government,Unknown,Low,96819,6.36,86
+1473,2025-01-26,Israel,Asia,31.0,34.9,Data Breach,Healthcare,Cybercriminal Group,High,345368,143.98,679
+1474,2023-02-14,Indonesia,Asia,-0.8,113.9,Data Breach,Government,Unknown,Critical,2864430,46.98,257
+1475,2024-01-25,Turkey,Asia/Europe,38.9,35.2,Phishing,Healthcare,Unknown,Low,4242234,19.25,66
+1476,2025-06-11,China,Asia,35.0,103.0,Malware,Retail,State-sponsored,High,128957,52.34,617
+1477,2024-12-02,South Korea,Asia,35.9,127.8,Malware,Finance,Cybercriminal Group,Low,280213,13.46,18
+1478,2025-07-12,Canada,North America,56.1,-106.3,DDoS,Finance,Hacktivist,Low,3194,74.96,391
+1479,2023-08-18,United States,North America,38.0,-97.0,Ransomware,Government,Cybercriminal Group,Medium,621119,309.02,21
+1480,2024-12-03,Ukraine,Europe,48.4,31.2,Supply Chain,Defense,Cybercriminal Group,High,392303,1127.79,244
+1481,2025-07-30,Ukraine,Europe,48.4,31.2,Malware,Healthcare,Cybercriminal Group,High,461182,53.56,369
+1482,2025-06-22,China,Asia,35.0,103.0,Phishing,Healthcare,Cybercriminal Group,Critical,176633,29.78,443
+1483,2025-05-22,Singapore,Asia,1.35,103.8,DDoS,Energy,Unknown,Critical,65648,78.99,642
+1484,2024-04-08,Germany,Europe,51.0,10.0,Supply Chain,Retail,Unknown,High,243116,267.16,373
+1485,2023-08-11,United Kingdom,Europe,54.0,-2.0,Malware,Energy,Cybercriminal Group,Medium,497127,19.18,676
+1486,2023-11-11,Israel,Asia,31.0,34.9,Phishing,Energy,Cybercriminal Group,Medium,3945595,19.61,112
+1487,2023-07-24,Brazil,South America,-14.2,-51.9,Phishing,Energy,Cybercriminal Group,High,1315657,54.57,676
+1488,2023-07-31,Germany,Europe,51.0,10.0,Malware,Defense,Cybercriminal Group,Low,90456,15.9,280
+1489,2025-03-11,Mexico,North America,23.6,-102.6,Malware,Energy,State-sponsored,High,166032,109.54,480
+1490,2025-08-13,Russia,Europe/Asia,61.5,105.3,Data Breach,Transport,Insider,High,297131,270.48,693
+1491,2023-04-03,United States,North America,38.0,-97.0,Ransomware,Education,Unknown,Medium,2993185,9.09,208
+1492,2025-07-20,Israel,Asia,31.0,34.9,Zero-Day Exploit,Education,Hacktivist,High,434343,70.82,458
+1493,2023-06-13,Japan,Asia,36.2,138.2,Data Breach,Healthcare,State-sponsored,Critical,994550,33.62,546
+1494,2023-10-15,Turkey,Asia/Europe,38.9,35.2,Phishing,Energy,Unknown,High,1231158,46.69,456
+1495,2023-06-24,United States,North America,38.0,-97.0,Ransomware,Government,Hacktivist,High,3040899,442.51,452
+1496,2024-08-03,Australia,Oceania,-25.3,133.8,DDoS,Education,Unknown,Critical,44669,72.05,379
+1497,2023-04-24,United States,North America,38.0,-97.0,Ransomware,Energy,Unknown,Critical,2691214,164.05,300
+1498,2024-05-21,Ukraine,Europe,48.4,31.2,Supply Chain,Government,Hacktivist,Critical,309599,109.15,428
+1499,2024-06-16,Mexico,North America,23.6,-102.6,Phishing,Government,Cybercriminal Group,Medium,1400907,17.4,54
+1500,2023-10-07,Ukraine,Europe,48.4,31.2,Data Breach,Retail,Hacktivist,High,2793725,103.14,565
